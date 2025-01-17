@@ -1,5 +1,5 @@
 ---
 layout: page
-title: Kater 
+title: Kater
 permalink: /cats/male
 ---

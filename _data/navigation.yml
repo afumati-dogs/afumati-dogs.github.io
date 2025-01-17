@@ -1,4 +1,18 @@
-- name: Home
-  link: /
-- name: About
-  link: /about.html
+- name: Unterstützung
+  link: /donations
+- name: Über uns
+  link: /about
+- name: Hunde
+  dropdown:
+    - name: Hündinnen
+      link: /dogs/female
+    - name: Rüden
+      link: /dogs/male
+- name: Katzen
+  link: /cats
+- name: Kontakt
+  link: /contact
+- name: Vorstand
+  link: /team
+- name: Selbstauskunft
+  link: /self-disclosure
