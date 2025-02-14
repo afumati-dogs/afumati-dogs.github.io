@@ -22,13 +22,17 @@
   .hero {
     min-height: 350px;
     height: 30vh;
+    .title {
+      width: 70vw;
+    }
   }
   .logo-container {
     position: absolute;
-    top: 350px;
+    top: 30vh;
     right: 5px;
     height: 300px;
     width: 300px;
+    z-index: 2;
     img {
       border-radius: 150px;
     }
@@ -38,8 +42,5 @@
     display: flex;
     flex-direction: column;
     justify-content: space-between;
-  }
-  .title {
-    width: 70vw;
   }
 </style>

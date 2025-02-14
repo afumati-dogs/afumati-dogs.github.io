@@ -1,10 +1,11 @@
 - name: Alvin
   age: 12.2018
+  image: /assets/img/dogs/alvin.jpeg
   size: Mittelgroß
   sex: Männlich
   character: lieb
   dog_number: XXXXX
-  text_dog: Ein sehr lieber Hund. Er ist sehr verspielt und liebt es, mit anderen Hunden zu spielen. Er ist sehr anhänglich und liebt es, gestreichelt zu werden. Er ist sehr verspielt und liebt es, mit anderen Hunden zu spielen. Er ist sehr anhänglich und liebt es, gestreichelt zu werden. Er ist sehr verspielt und liebt es, mit anderen Hunden zu spielen. Er ist sehr anhänglich und liebt es, gestreichelt zu werden. Er ist sehr verspielt und liebt es, mit anderen Hunden zu spielen. Er ist sehr anhänglich und liebt es, gestreichelt zu werden. Er ist sehr verspielt und liebt es, mit anderen Hunden zu spielen. Er ist sehr anhänglich und liebt es, gestreichelt zu werden. Er ist sehr verspielt und liebt es, mit anderen Hunden zu spielen. Er ist sehr anhänglich und liebt es, gestreichelt zu werden. Er ist sehr verspielt und liebt es, mit anderen Hunden zu spielen. Er ist sehr anhänglich und liebt es, gestreichelt zu werden. Er ist sehr verspielt und liebt es, mit anderen Hunden zu spielen. Er ist sehr anhänglich und liebt es, gestreichelt zu werden.
+  text_dog: Ein sehr lieber Hund. Er ist sehr anhänglich und liebt es, gestreichelt zu werden. Er ist sehr verspielt und liebt es, mit anderen Hunden zu spielen. Er ist sehr anhänglich und liebt es, gestreichelt zu werden. Er ist sehr verspielt und liebt es, mit anderen Hunden zu spielen. Er ist sehr anhänglich und liebt es, gestreichelt zu werden. Er ist sehr verspielt und liebt es, mit anderen Hunden zu spielen. Er ist sehr anhänglich und liebt es, gestreichelt zu werden. Er ist sehr verspielt und liebt es, mit anderen Hunden zu spielen. Er ist sehr anhänglich und liebt es, gestreichelt zu werden. Er ist sehr verspielt und liebt es, mit anderen Hunden zu spielen. Er ist sehr anhänglich und liebt es, gestreichelt zu werden. Er ist sehr verspielt und liebt es, mit anderen Hunden zu spielen. Er ist sehr anhänglich und liebt es, gestreichelt zu werden.
   text_home: Er sucht ein Zuhause mit Garten und Menschen, die viel Zeit für ihn haben. Er ist sehr anhänglich und liebt viel Auslauf. Braucht einen Garten, da er sehr aktiv ist. Kleine Kinder und andere Hunde sind kein Problem für ihn. Er ist sehr sozial und verträglich.
   emergency: true
 - name: Bello

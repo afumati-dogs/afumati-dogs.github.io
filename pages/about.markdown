@@ -1,18 +1,24 @@
 ---
-layout: page
+layout: default
 title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+<div class="container mt-6">
+    <div class="placeholder">text Susanne</div>
+    <h2 class="title is-2 mt-6">Tiervermittlung - Ein zweite Chance schenken</h2>
+    <p>Einem Tier aus dem Tierschutz ein Zuhause zu schenken, bedeutet ihm eine zweite Chance zu geben - die Chance auf ein wundervolles Leben. Unsere Tiere kommen aus ganz unterschiedlichen Gründen zu uns:
+Viele lebten auf der Straße,
+warteten in der Tötung,
+wurden ausgesetzt oder verjagt,
+und warten jetzt im Afumati Tierheim auf ihr großes Glück - ein Zuhause bei <strong>DIR!</strong></p>
+</div>
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+<style>
+    .placeholder {
+        background-color: beige;
+        height: 40vh;
+        width: 100%;
+    }
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+</style>

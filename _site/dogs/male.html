@@ -138,13 +138,17 @@
   .hero {
     min-height: 350px;
     height: 30vh;
+    .title {
+      width: 70vw;
+    }
   }
   .logo-container {
     position: absolute;
-    top: 350px;
+    top: 30vh;
     right: 5px;
     height: 300px;
     width: 300px;
+    z-index: 2;
     img {
       border-radius: 150px;
     }
@@ -155,23 +159,68 @@
     flex-direction: column;
     justify-content: space-between;
   }
-  .title {
-    width: 70vw;
-  }
 </style>
 
-      <div class="container"><article class="post">
-
-  <header class="post-header">
-    <h1 class="post-title">Rüden</h1>
-  </header>
-
-  <div class="post-content">
-    
-
+      <div class="container"><div class="container mt-6">
+    <div class="fixed-grid has-3-cols">
+  <div class="grid">     
+          
+     
+    <div class="cell"> <a href="/dog/alvin ">
+  <div class="box" style="background-image: url('/assets/img/dogs/alvin.jpeg');">
+    <div class="box" id="name-box">
+      Alvin<br />
+             6 Jahre
+    </div>
   </div>
+</a>
 
-</article>
+<style>
+  .box {
+    height: 40vh;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    display: flex;
+    justify-content: left;
+    align-items: flex-end;
+  }
+  #name-box {
+    height: fit-content;
+    background-color: rgba(255, 255, 255, 0.7);
+  }
+</style>
+</div>
+    
+    <div class="cell"> <a href="/dog/bello ">
+  <div class="box" style="background-image: url('');">
+    <div class="box" id="name-box">
+      Bello<br />
+             6 Jahre
+    </div>
+  </div>
+</a>
+
+<style>
+  .box {
+    height: 40vh;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    display: flex;
+    justify-content: left;
+    align-items: flex-end;
+  }
+  #name-box {
+    height: fit-content;
+    background-color: rgba(255, 255, 255, 0.7);
+  }
+</style>
+</div>
+    
+  </div>
+    </div>
+</div>
 </div>
     </div>
   </body>

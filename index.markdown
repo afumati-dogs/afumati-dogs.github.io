@@ -15,15 +15,20 @@ title: Asociatia Help of Afumati Dogs
     <div class="container mt-6" >
       <h2 class= "title is-3"> Unsere Notfälle</h2>
       <div class="card-container">
-        <div class="fixed-grid has-3-cols">
-            <div class="grid">
+        <div class="columns is-multiline">
             {% assign emergency_animals = site.data.dogs | concat: site.data.cats | where: "emergency", "true" %}
             {% for emergency_animal in emergency_animals %}
-              <div class="cell"> {% include animal-card.html animal=emergency_animal %}</div>
+              <div class="column is-one-third"> {% include animal-card.html animal=emergency_animal type="dog" %}</div>
             {% endfor %}
-          </div>
         </div>
       </div>
+      <p class="mt-5">Es suchen auch noch weitere Vierbeiner ein Zuhause:</p>
+      <div class="button-container mt-3">
+        <button class="button is-large">Rüden</button> 
+        <button class="button is-large">Hündinnen</button>      
+        <button class="button is-large">Katzen</button>
+      </div>
+      <h4 class= "title is-4 mt-6">Eine unserer Fellnasen hat Ihr Interesse geweckt? Dann füllen Sie einfach die <a>Selbstauskunft</a> aus!</h4>
     </div>
 
   </body>
@@ -31,8 +36,11 @@ title: Asociatia Help of Afumati Dogs
 
 <style>
 .cell {
-      display: flex
-;
+      display: flex;
     justify-content: center;
+}
+.button-container{
+  display: flex;
+  justify-content: space-evenly;
 }
 </style>

@@ -1,0 +1,38 @@
+---
+layout: default
+---
+
+<div class="container mt-6">
+  <div class="animal-display">
+    <div
+      class="box mr-6"
+      style="background-image: url('{{ page.image  }}');"
+    ></div>
+    <div>
+      <h1 class="title">{{ page.title }}</h1>
+      <p class="subtitle is-4 mt-6">Alter: {{ page.age }}</p>
+      <p class="subtitle is-4 mt-2">Größe: {{ page.size }}</p>
+      <p class="subtitle is-4 mt-2">Geschlecht: {{ page.sex }}</p>
+      <p class="subtitle is-4 mt-2">Charakter: {{ page.character }}</p>
+      <p class="subtitle is-4 mt-2">Hundenummer: {{ page.dog_number }}</p>
+      <p>{{ page.text_dog }}</p>
+    </div>
+  </div>
+  <p class="mt-6">{{ page.text_home }}</p>
+</div>
+
+<style>
+  .animal-display {
+    display: flex;
+  }
+  .box {
+    height: 40vh;
+    min-width: 500px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    display: flex;
+    justify-content: left;
+    align-items: flex-end;
+  }
+</style>

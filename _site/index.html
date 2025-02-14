@@ -138,13 +138,17 @@
   .hero {
     min-height: 350px;
     height: 30vh;
+    .title {
+      width: 70vw;
+    }
   }
   .logo-container {
     position: absolute;
-    top: 350px;
+    top: 30vh;
     right: 5px;
     height: 300px;
     width: 300px;
+    z-index: 2;
     img {
       border-radius: 150px;
     }
@@ -154,9 +158,6 @@
     display: flex;
     flex-direction: column;
     justify-content: space-between;
-  }
-  .title {
-    width: 70vw;
   }
 </style>
 
@@ -169,85 +170,96 @@
     <div class="container mt-6">
       <h2 class="title is-3"> Unsere Notfälle</h2>
       <div class="card-container">
-        <div class="fixed-grid has-3-cols">
-            <div class="grid">
+        <div class="columns is-multiline">
             
             
-              <div class="cell"> <div class="card">
-  <div class="card-image">
-    <figure class="image is-4by3">
-      <img src="" alt="Animal Image" />
-    </figure>
-  </div>
-  <div class="card-content">
-    <div class="media">
-      <div class="media-left">
-        <p class="title is-4">Alvin</p>
-        <p class="subtitle is-6">12.2018</p>
-      </div>
+              <div class="column is-one-third"> <a href="/dog/alvin ">
+  <div class="box" style="background-image: url('/assets/img/dogs/alvin.jpeg');">
+    <div class="box" id="name-box">
+      Alvin<br />
+             6 Jahre
     </div>
   </div>
-</div>
+</a>
 
 <style>
-  .card {
-    width: 15vw;
-    height: 462px;
+  .box {
+    height: 40vh;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    display: flex;
+    justify-content: left;
+    align-items: flex-end;
+  }
+  #name-box {
+    height: fit-content;
+    background-color: rgba(255, 255, 255, 0.7);
   }
 </style>
 </div>
             
-              <div class="cell"> <div class="card">
-  <div class="card-image">
-    <figure class="image is-4by3">
-      <img src="" alt="Animal Image" />
-    </figure>
-  </div>
-  <div class="card-content">
-    <div class="media">
-      <div class="media-left">
-        <p class="title is-4">Bello</p>
-        <p class="subtitle is-6">12.2018</p>
-      </div>
+              <div class="column is-one-third"> <a href="/dog/bello ">
+  <div class="box" style="background-image: url('');">
+    <div class="box" id="name-box">
+      Bello<br />
+             6 Jahre
     </div>
   </div>
-</div>
+</a>
 
 <style>
-  .card {
-    width: 15vw;
-    height: 462px;
+  .box {
+    height: 40vh;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    display: flex;
+    justify-content: left;
+    align-items: flex-end;
+  }
+  #name-box {
+    height: fit-content;
+    background-color: rgba(255, 255, 255, 0.7);
   }
 </style>
 </div>
             
-              <div class="cell"> <div class="card">
-  <div class="card-image">
-    <figure class="image is-4by3">
-      <img src="" alt="Animal Image" />
-    </figure>
-  </div>
-  <div class="card-content">
-    <div class="media">
-      <div class="media-left">
-        <p class="title is-4">Alvin</p>
-        <p class="subtitle is-6">12.2018</p>
-      </div>
+              <div class="column is-one-third"> <a href="/dog/alvin ">
+  <div class="box" style="background-image: url('');">
+    <div class="box" id="name-box">
+      Alvin<br />
+             6 Jahre
     </div>
   </div>
-</div>
+</a>
 
 <style>
-  .card {
-    width: 15vw;
-    height: 462px;
+  .box {
+    height: 40vh;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    display: flex;
+    justify-content: left;
+    align-items: flex-end;
+  }
+  #name-box {
+    height: fit-content;
+    background-color: rgba(255, 255, 255, 0.7);
   }
 </style>
 </div>
             
-          </div>
         </div>
       </div>
+      <p class="mt-5">Es suchen auch noch weitere Vierbeiner ein Zuhause:</p>
+      <div class="button-container mt-3">
+        <button class="button is-large">Rüden</button> 
+        <button class="button is-large">Hündinnen</button>      
+        <button class="button is-large">Katzen</button>
+      </div>
+      <h4 class="title is-4 mt-6">Eine unserer Fellnasen hat Ihr Interesse geweckt? Dann füllen Sie einfach die <a>Selbstauskunft</a> aus!</h4>
     </div>
 
   </body>
@@ -255,9 +267,12 @@
 
 <style>
 .cell {
-      display: flex
-;
+      display: flex;
     justify-content: center;
+}
+.button-container{
+  display: flex;
+  justify-content: space-evenly;
 }
 </style>
 
