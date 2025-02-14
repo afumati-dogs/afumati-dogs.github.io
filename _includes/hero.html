@@ -1,12 +1,45 @@
 <section class="hero">
   <div class="hero-body">
-    <p class="title">Asociatia Help of Afumati Dogs</p>
-    <p class="subtitle">Ehrenamtliche Tierschutzorganisation in Rumänien</p>
+    <p class="subtitle">
+      Asociatia Help of Afumati Dogs <br />Ehrenamtliche Tierschutzorganisation
+      in Rumänien
+    </p>
+
+    <h2 class="title">Unser Herz schlägt für Hunde & Katzen in Not</h2>
   </div>
+  <div class="hero-divider"></div>
 </section>
+<div class="logo-container">
+  <img src="{{ '/assets/img/logo.png' | relative_url }}" />
+</div>
 
 <style>
+  .hero-divider {
+    width: 100%;
+    height: 26px;
+    background-color: var(--afumati-brown);
+  }
+  .hero {
+    min-height: 350px;
+    height: 30vh;
+  }
+  .logo-container {
+    position: absolute;
+    top: 350px;
+    right: 5px;
+    height: 300px;
+    width: 300px;
+    img {
+      border-radius: 150px;
+    }
+  }
+
   .hero-body {
-    background-color: #006efea6;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+  }
+  .title {
+    width: 70vw;
   }
 </style>

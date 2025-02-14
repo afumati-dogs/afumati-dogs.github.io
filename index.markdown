@@ -10,12 +10,29 @@ title: Asociatia Help of Afumati Dogs
   <head>
     <meta charset="utf-8">
     <title>{{page.title}}</title>
-    <link
-  rel="stylesheet"
-  href="https://cdn.jsdelivr.net/npm/bulma@1.0.2/css/bulma.min.css"
->
   </head>
   <body>
-    <h1>{{page.title}}</h1>
+    <div class="container mt-6" >
+      <h2 class= "title is-3"> Unsere Notfälle</h2>
+      <div class="card-container">
+        <div class="fixed-grid has-3-cols">
+            <div class="grid">
+            {% assign emergency_animals = site.data.dogs | concat: site.data.cats | where: "emergency", "true" %}
+            {% for emergency_animal in emergency_animals %}
+              <div class="cell"> {% include animal-card.html animal=emergency_animal %}</div>
+            {% endfor %}
+          </div>
+        </div>
+      </div>
+    </div>
+
   </body>
 </html>
+
+<style>
+.cell {
+      display: flex
+;
+    justify-content: center;
+}
+</style>
