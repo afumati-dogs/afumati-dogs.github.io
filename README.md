@@ -27,3 +27,5 @@ Dabei ist die Einrückung sehr wichtig und muss immer gleich sein. Zusätzlich m
 ## Hochladen von Bildern:
 
 Für jedes Tier muss ein Ordner angelegt werden unter `assets/img/[cats/dogs]` je nach Tierart. Der Name des Ordners muss mit dem Namen in dem oben angelegtem Schema übereinstimmen (dabei spielt Groß-und Kleinschreibung keine Rolle). Also für den Hund Alvin beispielsweise müsste der Ordner `assets/img/dogs/alvin` angelegt werden. In dem Ordner können beliebig viele Bilder hochgeladen werden, allerdings werden nur die ersten 5 auf der Webseite dargestellt (die ersten 5 im Ordner, also die ersten 5 nach Namen alphabetisch sortiert). Das erste Bild im Ordner (vielleicht mit dem Namen `a.jpg`) wird als Hauptbild für den Hund zugeordnet.
+
+## Erklärungen Github Oberfläche:
