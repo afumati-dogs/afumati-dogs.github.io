@@ -39,12 +39,16 @@ defaults:
       type: dogs
     values:
       layout: animal
-      permalink: /dog/:name/
+      permalink: /dogs/:name/
   - scope:
       type: cats
     values:
       layout: animal
-      permalink: /cat/:name/
+      permalink: /cats/:name/
+  - scope:
+      path: "assets/img"
+    values:
+      image: true
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to

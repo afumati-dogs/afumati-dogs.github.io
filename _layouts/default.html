@@ -12,7 +12,7 @@
   <body>
     <div class="navbar-padding-top">
       {% include navigation.html %} {% include hero.html %}
-      <div class="container">{{ content }}</div>
+      <div class="container" id="main-container">{{ content }}</div>
     </div>
   </body>
 </html>
@@ -20,5 +20,8 @@
 <style>
   .navbar-padding-top {
     padding-top: 6em;
+  }
+  #main-container {
+    min-height: 90vh;
   }
 </style>

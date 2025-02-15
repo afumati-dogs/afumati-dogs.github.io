@@ -9,7 +9,7 @@ permalink: /dogs/male
   <div class="grid">     
      {% assign male_dogs = site.data.dogs | where: "sex", "Männlich" %}     
      {% for dog in male_dogs %}
-    <div class="cell"> {% include animal-card.html animal=dog type="dog" %}</div>
+    <div class="cell"> {% include animal-card.html animal=dog type="dogs" %}</div>
     {% endfor %}
   </div>
     </div>

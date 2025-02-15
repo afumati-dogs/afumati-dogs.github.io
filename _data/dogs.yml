@@ -1,6 +1,5 @@
 - name: Alvin
   age: 12.2018
-  image: /assets/img/dogs/alvin.jpeg
   size: Mittelgroß
   sex: Männlich
   character: lieb

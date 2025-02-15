@@ -1,10 +1,20 @@
-<a href="/{{ include.type }}/{{ include.animal.name | slugify }} ">
+{% assign animal_name = include.animal.name | downcase %} {% assign found_image
+= "" %} {% assign image_folder = "img/" | append: include.type | downcase %}
+
+<!-- find current animals first image-->
+{% for image in site.static_files %} {% assign image_path = image.path |
+downcase %} {% if image_path contains image_folder and image_path contains
+animal_name %} {% assign found_image = image.path %} {% break %} {% endif %} {%
+endfor %}
+
+<a href="/{{ include.type }}/{{ include.animal.name | slugify }}">
   <div
     class="box"
-    style="background-image: url('{{ include.animal.image  }}');"
+    style="background-image: url('{{ site.baseurl }}{{ found_image | default: include.animal.image }}');"
   >
     <div class="box" id="name-box">
-      {{include.animal.name}}<br />
+      {{ include.animal.name }}<br />
+
       {% assign birth_date = include.animal.age | split: "." %} {% assign
       birth_month = birth_date[0] %} {% assign birth_year = birth_date[1] %} {%
       assign current_year = "now" | date: "%Y" %} {% assign current_month =

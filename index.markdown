@@ -14,18 +14,31 @@ title: Asociatia Help of Afumati Dogs
   <body>
     <div class="container mt-6" >
       <h2 class= "title is-3"> Unsere Notfälle</h2>
-      <div class="card-container">
-        <div class="columns is-multiline">
-            {% assign emergency_animals = site.data.dogs | concat: site.data.cats | where: "emergency", "true" %}
-            {% for emergency_animal in emergency_animals %}
-              <div class="column is-one-third"> {% include animal-card.html animal=emergency_animal type="dog" %}</div>
-            {% endfor %}
-        </div>
+<div class="card-container">
+  <div class="columns is-multiline">
+    {% assign emergency_animals = site.data.dogs | concat: site.data.cats | where: "emergency", "true" | slice: 0, 3 %}
+    
+    {% for emergency_animal in emergency_animals %}
+      <div class="column is-one-third">
+        {% assign animal_type = '' %}
+        
+        <!-- Bestimme den Typ basierend auf der Quelle -->
+        {% if site.data.dogs contains emergency_animal %}
+          {% assign animal_type = 'dogs' %}
+        {% elsif site.data.cats contains emergency_animal %}
+          {% assign animal_type = 'cats' %}
+        {% endif %}
+        
+        {% include animal-card.html animal=emergency_animal type=animal_type %}
       </div>
+    {% endfor %}
+  </div>
+</div>
+
       <p class="mt-5">Es suchen auch noch weitere Vierbeiner ein Zuhause:</p>
       <div class="button-container mt-3">
-        <button class="button is-large">Rüden</button> 
-        <button class="button is-large">Hündinnen</button>      
+        <button class="button is-large">Rüden</button>
+        <button class="button is-large">Hündinnen</button>
         <button class="button is-large">Katzen</button>
       </div>
       <h4 class= "title is-4 mt-6">Eine unserer Fellnasen hat Ihr Interesse geweckt? Dann füllen Sie einfach die <a>Selbstauskunft</a> aus!</h4>
