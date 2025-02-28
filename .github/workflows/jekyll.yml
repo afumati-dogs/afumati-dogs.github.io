@@ -10,10 +10,6 @@ permissions:
   pages: write
   id-token: write
 
-concurrency:
-  group: "pages"
-  cancel-in-progress: false
-
 jobs:
   build:
     runs-on: ubuntu-latest
@@ -30,6 +26,7 @@ jobs:
       - name: Install Dependencies
         run: |
           bundle config set force_ruby_platform true
+          bundle config set without 'development'
           bundle install
 
       - name: Build Jekyll site
