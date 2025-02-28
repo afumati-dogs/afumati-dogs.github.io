@@ -1,4 +1,4 @@
-source "https://rubygems.org"
+#source "https://rubygems.org"
 # Hello! This is where you manage which Jekyll version is used to run.
 # When you want to use a different version, change it below, save the
 # file and run `bundle install`. Run Jekyll with `bundle exec`, like so:
@@ -17,31 +17,54 @@ source "https://rubygems.org"
 #group :jekyll_plugins do
 #  gem "jekyll-feed", "~> 0.12"
 #end
-
-source "https://rubygems.org"
-
 # GitHub Pages verwaltet seine eigene Jekyll-Version
-gem "github-pages", group: :jekyll_plugins
+#gem "github-pages", group: :jekyll_plugins
 
 # Falls du eigene Plugins brauchst, füge sie hier hinzu
-group :jekyll_plugins do
-  gem "jekyll-feed", "~> 0.12"
-end
+#group :jekyll_plugins do
+#  gem "jekyll-feed", "~> 0.12"
+#end
 
-gem "listen", "~> 3.8"
+#gem "listen", "~> 3.8"
 
 
 
 # Windows and JRuby does not include zoneinfo files, so bundle the tzinfo-data gem
 # and associated library.
-platforms :mingw, :x64_mingw, :mswin, :jruby do
-  gem "tzinfo", ">= 1", "< 3"
-  gem "tzinfo-data"
-end
+#platforms :mingw, :x64_mingw, :mswin, :jruby do
+ # gem "tzinfo", ">= 1", "< 3"
+ # gem "tzinfo-data"
+#end
 
 # Performance-booster for watching directories on Windows
-gem "wdm", "~> 0.1.1", :platforms => [:mingw, :x64_mingw, :mswin]
+#gem "wdm", "~> 0.1.1", :platforms => [:mingw, :x64_mingw, :mswin]
 
 # Lock `http_parser.rb` gem to `v0.6.x` on JRuby builds since newer versions of the gem
 # do not have a Java counterpart.
-gem "http_parser.rb", "~> 0.6.0", :platforms => [:jruby]
+#gem "http_parser.rb", "~> 0.6.0", :platforms => [:jruby]
+
+source "https://rubygems.org"
+
+# Falls du GitHub Pages nutzt, verwende:
+gem "github-pages", group: :jekyll_plugins
+
+# Falls du **kein** GitHub Pages nutzt, verwende stattdessen:
+# gem "jekyll", "~> 4.3"
+
+# Jekyll Plugins für erweiterte Funktionen
+group :jekyll_plugins do
+  gem "jekyll-feed", "~> 0.12"  # RSS/Atom-Feed Plugin
+  gem "jekyll-seo-tag", "~> 2.8"  # SEO-Optimierung
+  gem "listen", "~> 3.9"  # Live-Reload für lokale Entwicklungsumgebung
+end
+
+# Falls du ein Custom Plugin in `_plugins/` hast:
+group :jekyll_plugins do
+ # gem "my-custom-plugin", path: "./_plugins"
+end
+
+# Unterstützung für Zeitzonen-Informationen
+gem "tzinfo", ">= 1", "< 3"
+
+# Nur unter Windows oder macOS relevante Gems **entfernt**
+# Keine `rb-fsevent` oder `wdm`, weil diese für Linux unnötig sind
