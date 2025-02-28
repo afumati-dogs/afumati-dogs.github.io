@@ -30,7 +30,8 @@ jobs:
       - name: Install Dependencies
         run: |
           bundle config set --local path 'vendor/bundle'
-          bundle install --without development test
+          bundle config set --local without 'development'
+          bundle install
 
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
