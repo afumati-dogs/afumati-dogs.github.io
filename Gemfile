@@ -28,8 +28,8 @@ group :jekyll_plugins do
   gem "jekyll-feed", "~> 0.12"
 end
 
-gem "rb-fsevent", "~> 0.11.2"
-gem "listen", "~> 3.9"
+gem "listen", "~> 3.8"
+
 
 
 # Windows and JRuby does not include zoneinfo files, so bundle the tzinfo-data gem
