@@ -29,10 +29,6 @@ instagram_username: jekyllrb
 facebook_username: jekyll
 
 # Build settings
-theme: minima
-plugins:
-  - jekyll-feed
-
 safe: false
 
 defaults:

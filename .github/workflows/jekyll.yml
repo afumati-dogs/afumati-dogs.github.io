@@ -32,11 +32,6 @@ jobs:
           bundle config set --local path 'vendor/bundle'
           bundle install
 
-      - name: Run Custom Generator
-        run: bundle exec jekyll build
-        env:
-          JEKYLL_ENV: production
-
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
 
