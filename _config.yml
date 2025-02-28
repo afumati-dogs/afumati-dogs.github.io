@@ -32,6 +32,7 @@ facebook_username: jekyll
 theme: minima
 plugins:
   - jekyll-feed
+
 safe: false
 
 defaults:
