@@ -53,13 +53,13 @@ module Jekyll
       self.data['type'] = type  # Speichert "dog" oder "cat"
       self.data['image'] = main_image
       self.data['images'] = images
-      self.data['age'] = animal['age']
-      self.data['size'] = animal['size']
-      self.data['dog_number'] = animal['dog_number']
-      self.data['sex'] = animal['sex']
-      self.data['character'] = animal['character']
-      self.data['text_dog'] = animal['text_dog']
-      self.data['text_home'] = animal['text_home']
+      self.data['age'] = animal['alter']
+      self.data['size'] = animal['größe']
+      self.data['dog_number'] = animal['hunde_nummer']
+      self.data['sex'] = animal['geschlecht']
+      self.data['character'] = animal['charakter']
+      self.data['text_dog'] = animal['text_hund']
+      self.data['text_home'] = animal['text_zuhause']
     end
   end
 end

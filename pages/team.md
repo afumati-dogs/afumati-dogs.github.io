@@ -8,7 +8,7 @@ permalink: /team
     <div class="placeholder">text Lily</div>
     <p class="title is-2 mt-6">Susanne Titzmann</p>
     <p class="subtitle is-3 mt-4">Präsidentin Asociata Help of Afumati Dogs</p>
-        <a>
+        <a href="https://www.facebook.com/susanne.titzmann" target="_blank">
           <img
             width="28"
             height="28"

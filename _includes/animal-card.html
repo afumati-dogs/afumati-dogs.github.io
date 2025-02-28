@@ -15,7 +15,7 @@ endfor %}
     <div class="box" id="name-box">
       {{ include.animal.name }}<br />
 
-      {% assign birth_date = include.animal.age | split: "." %} {% assign
+      {% assign birth_date = include.animal.alter | split: "." %} {% assign
       birth_month = birth_date[0] %} {% assign birth_year = birth_date[1] %} {%
       assign current_year = "now" | date: "%Y" %} {% assign current_month =
       "now" | date: "%m" %} {% assign age_years = current_year | minus:

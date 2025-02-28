@@ -16,7 +16,7 @@ title: Asociatia Help of Afumati Dogs
       <h2 class= "title is-3"> Unsere Notfälle</h2>
 <div class="card-container">
   <div class="columns is-multiline">
-    {% assign emergency_animals = site.data.dogs | concat: site.data.cats | where: "emergency", "true" | slice: 0, 3 %}
+    {% assign emergency_animals = site.data.dogs | concat: site.data.cats | where: "notfall", "true" | slice: 0, 3 %}
     
     {% for emergency_animal in emergency_animals %}
       <div class="column is-one-third">
@@ -37,9 +37,9 @@ title: Asociatia Help of Afumati Dogs
 
       <p class="mt-5">Es suchen auch noch weitere Vierbeiner ein Zuhause:</p>
       <div class="button-container mt-3">
-        <button class="button is-large">Rüden</button>
-        <button class="button is-large">Hündinnen</button>
-        <button class="button is-large">Katzen</button>
+        <a href="/dogs/male"><button class="button is-large">Rüden</button></a>
+         <a href="/dogs/female"> <button class="button is-large">Hündinnen</button></a>
+        <a href="/cats "><button class="button is-large">Katzen</button></a>
       </div>
       <h4 class= "title is-4 mt-6">Eine unserer Fellnasen hat Ihr Interesse geweckt? Dann füllen Sie einfach die
       <a           href="../Selbstauskunftsbogen_HUND_Stand 01_2022.pdf"
