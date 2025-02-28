@@ -41,7 +41,9 @@ title: Asociatia Help of Afumati Dogs
         <button class="button is-large">Hündinnen</button>
         <button class="button is-large">Katzen</button>
       </div>
-      <h4 class= "title is-4 mt-6">Eine unserer Fellnasen hat Ihr Interesse geweckt? Dann füllen Sie einfach die <a>Selbstauskunft</a> aus!</h4>
+      <h4 class= "title is-4 mt-6">Eine unserer Fellnasen hat Ihr Interesse geweckt? Dann füllen Sie einfach die
+      <a           href="../Selbstauskunftsbogen_HUND_Stand 01_2022.pdf"
+          target="_blank">Selbstauskunft</a> aus!</h4>
     </div>
 
   </body>

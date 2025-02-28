@@ -27,3 +27,11 @@ body {
   width: 100%;
   height: 100%;
 }
+
+.footer {
+  --bulma-footer-background-color: #401e01;
+  color: #f2e3d5 !important;
+  a {
+    color: #4ebeeb !important;
+  }
+}
