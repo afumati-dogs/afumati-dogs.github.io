@@ -1,4 +1,4 @@
-name: Deploy Jekyll site to Pages
+name: Deploy Jekyll site to GitHub Pages
 
 on:
   push:
@@ -25,16 +25,20 @@ jobs:
         uses: ruby/setup-ruby@v1
         with:
           ruby-version: "3.2"
-          bundler-cache: false
+          bundler-cache: true
 
       - name: Install Dependencies
         run: |
-          bundle config set --local path 'vendor/bundle'
-          bundle config set --local without 'development'
+          bundle config set force_ruby_platform true
           bundle install
+
+      - name: Build Jekyll site
+        run: bundle exec jekyll build
 
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
+        with:
+          path: _site
 
   deploy:
     environment:
