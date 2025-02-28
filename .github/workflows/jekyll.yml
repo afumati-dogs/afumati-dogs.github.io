@@ -29,8 +29,7 @@ jobs:
 
       - name: Install Dependencies
         run: |
-          bundle config set force_ruby_platform true
-          bundle config set without 'development'
+          bundle lock --add-platform ruby
           bundle install
 
       - name: Build Jekyll site
