@@ -7,12 +7,11 @@
   text_dog: Ruben ist ein totaler Schmuser, verträglich mit Artgenossen, aktiv und neugierig. Er wurde mit seinen Brüdern zusammen auf einem Feld gefunden. Bald darf Tony, mit dem sich Ruben einen Zwinger teilt, ausreisen und er bleibt allein zurück
   text_home: Für Ruben suchen wir Menschen, die ihm viel Aufmerksamkeit schenken und selbst noch gut zu Fuß sind. 
   emergency: true
-- name: Bello
-  age: 12.2018
+- name: Roby
+  age: 09.2021
   size: Mittelgroß
   sex: Männlich
-  character: lieb
-  dog_number: XXXXX
-  text_dog: Ein sehr lieber Hund. Er ist sehr verspielt und liebt es, mit anderen Hunden zu spielen. Er ist sehr anhänglich und liebt es, gestreichelt zu werden. Er ist sehr verspielt und liebt es, mit anderen Hunden zu spielen. Er ist sehr anhänglich und liebt es, gestreichelt zu werden. Er ist sehr verspielt und liebt es, mit anderen Hunden zu spielen. Er ist sehr anhänglich und liebt es, gestreichelt zu werden. Er ist sehr verspielt und liebt es, mit anderen Hunden zu spielen. Er ist sehr anhänglich und liebt es, gestreichelt zu werden. Er ist sehr verspielt und liebt es, mit anderen Hunden zu spielen. Er ist sehr anhänglich und liebt es, gestreichelt zu werden. Er ist sehr verspielt und liebt es, mit anderen Hunden zu spielen. Er ist sehr anhänglich und liebt es, gestreichelt zu werden. Er ist sehr verspielt und liebt es, mit anderen Hunden zu spielen. Er ist sehr anhänglich und liebt es, gestreichelt zu werden. Er ist sehr verspielt und liebt es, mit anderen Hunden zu spielen. Er ist sehr anhänglich und liebt es, gestreichelt zu werden.
-  text_home: Er sucht ein Zuhause mit Garten und Menschen, die viel Zeit für ihn haben. Er ist sehr anhänglich und liebt viel Auslauf. Braucht einen Garten, da er sehr aktiv ist. Kleine Kinder und andere Hunde sind kein Problem für ihn. Er ist sehr sozial und verträglich.
-  emergency: true
+  character: schüchtern, vermust, freundlich, gegenüber Artgenossen sehr vorsichtig
+  dog_number: 818h
+  text_dog: Roby ist anfangs unsicher und schüchtern. Gegenüber Frauen taut er deutlich schneller auf. Hast du einmal sein Vertrauen gewonnen, dann ist er ein großer Schmuser und freut sich über Aufmerksamkeiten. Roby wurde mit seinen Brüdern auf einem Feld gefunden. Er ist sehr menschenbezogen und freundlich. Dei einer Beißerei wurde er schwer verletzt und seine Rute musste amputiert werden. Dadurch musste er lange Zeit in der Klinik verbingen, was für ihn keine schöne Erfahrung war. Heute ist Roby gesund und munter und bereit für ein neues Zuhause. Roby muss zwingend Nassfutter gefüttert bekommen.
+  text_home: Roby braucht ein Zuhause mit souveräner Führung und Geduld. Er braucht Zeit, um Vertrauen zu fassen (das fällt ihm bei Frauen leichter als bei Männern). Erfahrung mit ängstlichen Hunden wäre wünschenswert.
