@@ -17,7 +17,7 @@
     "properties": {
       "name": { "type": "string" },
       "alter": {
-        "type": "number",
+        "type": "string",
         "pattern": "^(0[1-9]|1[0-2])\\.20[0-9]{2}$",
         "description": "Alter im Format MM.YYYY als Zahl, führende Null für Monate 01-09"
       },
