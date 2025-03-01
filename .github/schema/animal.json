@@ -15,7 +15,7 @@
     "properties": {
       "name": { "type": "string" },
       "größe": { "type": "string" },
-      "geschlecht": { "type": "string" },
+      "geschlecht": { "type": "string", "enum": ["Männlich", "Weiblich"] },
       "charakter": { "type": "string" },
       "hunde_nummer": { "type": ["string", "number"] },
       "text_hund": { "type": "string" },
