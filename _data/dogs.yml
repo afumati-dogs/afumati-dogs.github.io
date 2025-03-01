@@ -47,7 +47,63 @@
   hunde_nummer: 685
   text_hund: Jerry kam von einer anderen Tierschützerin zu uns. Er wartete bei ihr schon sehr lange im Shelter, und leider wartet er nun auch schon mehrere Jahre bei uns. Jerry ist stark, imposant und ausgesprochen lebhaft. Bei Artgenossen entscheidet die Sympathie, wir sehen Jerry aber eher als Einzelhund, da er immer gern die Hosen an hat.
   text_zuhause: Für Jerry brauchen wir unbedingt sehr hundeerfahrene Menschen, die ihm eine konsequente Führung bieten und sich nicht einschüchtern lassen. Jerry sollte in ein kinderloses Zuhause vermittelt werden.
-- name: Jerry99999999999999999999999999999999999999999
+- name: Jack
+  alter: 01.2018
+  größe: groß
+  geschlecht: Männlich
+  charakter: vorsichtig, lieb, mag es aktuell noch nicht viel angefasst zu werden
+  hunde_nummer: 697
+  text_hund: Jack ist ein ganz lieber Kerl, nicht zu stürmisch, freundlich und einfach ein süßer Wuschel. Jedoch ist unser Jack nichts für Anfänger - er kann aggressiv werden, wenn er sich bedroht fühlt (was z.B. beim Besuch des Hundefriseurs vorkommt).
+  text_zuhause: Für Jack brauchen wir unbedingt sehr hundeerfahrene Menschen, die ihm eine konsequent begegnen, sich nicht einschüchtern lassen und mit einem ängstlichen Hund umgehen können. Jack sollte in ein kinderloses Zuhause vermittelt werden.
+- name: Curry
+  alter: 08.2019
+  größe: klein - mittel
+  geschlecht: Weiblich
+  charakter: aktiv, intelligent, neugierig, aufgeweckt, vorsichtig
+  hunde_nummer: 749
+  text_hund: Curry ist noch vorsichtig und braucht Zeit, um Vertrauen aufzubauen. Sie ist sehr clever, freundlich, eher unterwürfig und aufgeweckt. Sie freut sich über kleine Aufmerksamkeiten.
+  text_zuhause: Für Curry suchen wir geduldige Menschen, die ihr ausreichend Zeit geben, um Vertrauen aufzubauen. Hundeerfahrung wäre von Vorteil.
+- name: Masha
+  alter: 08.2018
+  größe: mittel
+  geschlecht: Weiblich
+  charakter: ruhig, zurückhaltend, freundlich, vorsichtig
+  hunde_nummer: 808
+  text_hund: Masha lebt mit Curry zusammen in einem Zwinger, dabei ist sie deutlich diejenige, die den Ton angibt. Masha braucht Zeit, um Vertrauen zu fassen und ist zurückhaltend und vorsichtig. 
+  text_zuhause: Für Masha suchen wir geduldige Menschen, die ihr ausreichend Zeit geben, um Vertrauen zu fassen. Hundeerfahrung wäre von Vorteil. Bei Artgenossen entscheidet die Sympathie.
+- name: Franka
+  alter: 04.2016
+  größe: mittel
+  geschlecht: Weiblich
+  charakter: sanft, verschmust, lieb, ruhig
+  hunde_nummer: 708
+  text_hund: Franka ist eine sanfte, freundliche und sehr verschmuste Hundedame. Sie ist topfit und gesund, und immer mit Nassfutter bestechlich (sagt ihr nicht, dass ich euch das verraten habe). Franka liebt schmusen, den Auslauf, und ist neugierig und stets aufgeschlossen. Franka wurde aus der Tötung gerettet.
+  text_zuhause: Franka muss nicht in ein Zuhause mit Hundeerfahrung reisen. Wir sehen sie eher als Einzelprinzessin, da bei ihr die Sympathie entscheidet. Franka ist eine ganz liebe Hündin, die nur darauf wartet, endlich gesehen zu werden!
+- name: Luca
+  alter: 06.2019
+  größe: mittel - groß
+  geschlecht: Männlich
+  charakter: zurückhaltend, schüchtern, lieb, freundlich, sozial
+  hunde_nummer: 731
+  text_hund: Luca ist ein ruhiger, genügsamer Hund, der anfangs eher vorsichtig ist. In ihm steckt ein kerngesunder, aktiver Hund, der auch nur so geliebt werden möchte, wie er ist. Luca ist durch sein fehlendes Hinterbein nicht eingeschränkt - er macht alles wie andere Hunde auch und kommt ganz super zurecht. 
+  text_zuhause: Luca braucht geduldige, liebevolle Menschen, die ihn so akzeptieren, wie er ist. Es wäre natürlich sehr schön, wenn in seinem neuen zuhause möglichst wenig Treppen wären, die er täglich gehen müsste. Luca ist ein wundervoller Wegbegleiter, wenn man ihm etwas Zeit, Liebe und Geduld schenkt!
+- name: Buddy
+  alter: 02.2018
+  größe: mittel - groß
+  geschlecht: Männlich
+  charakter: ängstlich, schüchtern, zurückhaltend, freundlich
+  hunde_nummer: 741
+  text_hund: Buddy kommt aus einem illegalen Shelter in Gheorghenie. Er ist noch sehr ängstlich und misstrauisch, aber nicht aggressiv. Er hat einfach zu viel schlechtes erlebt, was bei ihm zu einer gewissen Skepsis gegenüber Menschen und Neuem geführt hat. Buddy wird immer wieder übersehen, dabei ist er ein wunderschöner, lieber Rüde.
+  text_zuhause: Für Buddy suchen wir Menschen mit Hundeerfahrung, bevorzugt sogar mit Erfahrung mit ängstlichen Hunden. Buddy braucht geduldige Menschen, die ihn verstehen und ihm seine Skepsis nicht übel nehmen. Er sucht nach Menschen, die ihn endlich sehen und ihm die Chance schenken, richtig aufzublühen - und dass es noch ganz viel tolles da draußen gibt.
+- name: Amari
+  alter: 08.2018
+  größe: mittel - groß
+  geschlecht: Weiblich
+  charakter: aktiv, intelligent, aufgeschlossen, freundlich, menschenbezogen, lauffreudig
+  hunde_nummer: 786
+  text_hund: Amari ist eine sehr sportliche, freundliche und aufgeschlossene Hündin. Sie wurde aus einem illegalen Shelter gerettet. Mit ihrem wunderschönen, weiß-grauen Fell und ihren Schlappöhrchen kann sie einem nur direkt ins Herz springen! - so, wie sie auch gern über niedrige Zäune springt. Amari hat viel Energie und würde sich bestimmt ganz toll als Begleitung beim Joggen machen.
+  text_zuhause: Für Amari suchen wir eheer ein Zuhause als Einzelprinzessin. Wir würden uns sehr freuen, wenn Amari zu sportlichen, agilen Menschen ziehen dürfte. Hundeerfahrung wäre von Vorteil.
+- name: Carlo
   alter: 12.2018
   größe: groß
   geschlecht: Männlich
@@ -56,70 +112,14 @@
   text_hund: Jerry kam von einer anderen Tierschützerin zu uns. Er wartete bei ihr schon sehr lange im Shelter, und leider wartet er nun auch schon mehrere Jahre bei uns. Jerry ist stark, imposant und ausgesprochen lebhaft. Bei Artgenossen entscheidet die Sympathie, wir sehen Jerry aber eher als Einzelhund, da er immer gern die Hosen an hat.
   text_zuhause: Für Jerry brauchen wir unbedingt sehr hundeerfahrene Menschen, die ihm eine konsequente Führung bieten und sich nicht einschüchtern lassen. Jerry sollte in ein kinderloses Zuhause vermittelt werden.
 - name: Jerry
-  alter: 12.2018
+  alter: 08.2020
   größe: groß
   geschlecht: Männlich
-  charakter: aktiv, intelligent
-  hunde_nummer: 685
-  text_hund: Jerry kam von einer anderen Tierschützerin zu uns. Er wartete bei ihr schon sehr lange im Shelter, und leider wartet er nun auch schon mehrere Jahre bei uns. Jerry ist stark, imposant und ausgesprochen lebhaft. Bei Artgenossen entscheidet die Sympathie, wir sehen Jerry aber eher als Einzelhund, da er immer gern die Hosen an hat.
-  text_zuhause: Für Jerry brauchen wir unbedingt sehr hundeerfahrene Menschen, die ihm eine konsequente Führung bieten und sich nicht einschüchtern lassen. Jerry sollte in ein kinderloses Zuhause vermittelt werden.
-- name: Jerry
-  alter: 12.2018
-  größe: groß
-  geschlecht: Männlich
-  charakter: aktiv, intelligent
-  hunde_nummer: 685
-  text_hund: Jerry kam von einer anderen Tierschützerin zu uns. Er wartete bei ihr schon sehr lange im Shelter, und leider wartet er nun auch schon mehrere Jahre bei uns. Jerry ist stark, imposant und ausgesprochen lebhaft. Bei Artgenossen entscheidet die Sympathie, wir sehen Jerry aber eher als Einzelhund, da er immer gern die Hosen an hat.
-  text_zuhause: Für Jerry brauchen wir unbedingt sehr hundeerfahrene Menschen, die ihm eine konsequente Führung bieten und sich nicht einschüchtern lassen. Jerry sollte in ein kinderloses Zuhause vermittelt werden.
-- name: Jerry
-  alter: 12.2018
-  größe: groß
-  geschlecht: Männlich
-  charakter: aktiv, intelligent
-  hunde_nummer: 685
-  text_hund: Jerry kam von einer anderen Tierschützerin zu uns. Er wartete bei ihr schon sehr lange im Shelter, und leider wartet er nun auch schon mehrere Jahre bei uns. Jerry ist stark, imposant und ausgesprochen lebhaft. Bei Artgenossen entscheidet die Sympathie, wir sehen Jerry aber eher als Einzelhund, da er immer gern die Hosen an hat.
-  text_zuhause: Für Jerry brauchen wir unbedingt sehr hundeerfahrene Menschen, die ihm eine konsequente Führung bieten und sich nicht einschüchtern lassen. Jerry sollte in ein kinderloses Zuhause vermittelt werden.
-- name: Jerry
-  alter: 12.2018
-  größe: groß
-  geschlecht: Männlich
-  charakter: aktiv, intelligent
-  hunde_nummer: 685
-  text_hund: Jerry kam von einer anderen Tierschützerin zu uns. Er wartete bei ihr schon sehr lange im Shelter, und leider wartet er nun auch schon mehrere Jahre bei uns. Jerry ist stark, imposant und ausgesprochen lebhaft. Bei Artgenossen entscheidet die Sympathie, wir sehen Jerry aber eher als Einzelhund, da er immer gern die Hosen an hat.
-  text_zuhause: Für Jerry brauchen wir unbedingt sehr hundeerfahrene Menschen, die ihm eine konsequente Führung bieten und sich nicht einschüchtern lassen. Jerry sollte in ein kinderloses Zuhause vermittelt werden.
-- name: Jerry
-  alter: 12.2018
-  größe: groß
-  geschlecht: Männlich
-  charakter: aktiv, intelligent
-  hunde_nummer: 685
-  text_hund: Jerry kam von einer anderen Tierschützerin zu uns. Er wartete bei ihr schon sehr lange im Shelter, und leider wartet er nun auch schon mehrere Jahre bei uns. Jerry ist stark, imposant und ausgesprochen lebhaft. Bei Artgenossen entscheidet die Sympathie, wir sehen Jerry aber eher als Einzelhund, da er immer gern die Hosen an hat.
-  text_zuhause: Für Jerry brauchen wir unbedingt sehr hundeerfahrene Menschen, die ihm eine konsequente Führung bieten und sich nicht einschüchtern lassen. Jerry sollte in ein kinderloses Zuhause vermittelt werden.
-- name: Jerry
-  alter: 12.2018
-  größe: groß
-  geschlecht: Männlich
-  charakter: aktiv, intelligent
-  hunde_nummer: 685
-  text_hund: Jerry kam von einer anderen Tierschützerin zu uns. Er wartete bei ihr schon sehr lange im Shelter, und leider wartet er nun auch schon mehrere Jahre bei uns. Jerry ist stark, imposant und ausgesprochen lebhaft. Bei Artgenossen entscheidet die Sympathie, wir sehen Jerry aber eher als Einzelhund, da er immer gern die Hosen an hat.
-  text_zuhause: Für Jerry brauchen wir unbedingt sehr hundeerfahrene Menschen, die ihm eine konsequente Führung bieten und sich nicht einschüchtern lassen. Jerry sollte in ein kinderloses Zuhause vermittelt werden.
-- name: Jerry
-  alter: 12.2018
-  größe: groß
-  geschlecht: Männlich
-  charakter: aktiv, intelligent
-  hunde_nummer: 685
-  text_hund: Jerry kam von einer anderen Tierschützerin zu uns. Er wartete bei ihr schon sehr lange im Shelter, und leider wartet er nun auch schon mehrere Jahre bei uns. Jerry ist stark, imposant und ausgesprochen lebhaft. Bei Artgenossen entscheidet die Sympathie, wir sehen Jerry aber eher als Einzelhund, da er immer gern die Hosen an hat.
-  text_zuhause: Für Jerry brauchen wir unbedingt sehr hundeerfahrene Menschen, die ihm eine konsequente Führung bieten und sich nicht einschüchtern lassen. Jerry sollte in ein kinderloses Zuhause vermittelt werden.
-- name: Jerry
-  alter: 12.2018
-  größe: groß
-  geschlecht: Männlich
-  charakter: aktiv, intelligent
-  hunde_nummer: 685
-  text_hund: Jerry kam von einer anderen Tierschützerin zu uns. Er wartete bei ihr schon sehr lange im Shelter, und leider wartet er nun auch schon mehrere Jahre bei uns. Jerry ist stark, imposant und ausgesprochen lebhaft. Bei Artgenossen entscheidet die Sympathie, wir sehen Jerry aber eher als Einzelhund, da er immer gern die Hosen an hat.
-  text_zuhause: Für Jerry brauchen wir unbedingt sehr hundeerfahrene Menschen, die ihm eine konsequente Führung bieten und sich nicht einschüchtern lassen. Jerry sollte in ein kinderloses Zuhause vermittelt werden.
-- name: Jerry
+  charakter: ruhig, zurückhaltend, sozial, schüchtern
+  hunde_nummer: 789
+  text_hund: Carlo ist gegenüber fremden Menschen sehr zurückhaltend, vorsichtig und skeptisch. Er ist ein lieber, sehr sozialer Rüde, der nur auf seine Chance bei den richtigen Menschen wartet.
+  text_zuhause: Für Carlo suchen wir bevorzugt ruhige, geduldige Menschen, die Hundeerfahrung haben und sich Carlo gern annehmen - denn er braucht seine Zeit, um Vertrauen zu fassen. 
+- name: Jerry 999999999999999999999999
   alter: 12.2018
   größe: groß
   geschlecht: Männlich
