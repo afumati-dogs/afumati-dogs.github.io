@@ -36,7 +36,7 @@ jobs:
       - name: Validate YAML Schema
         run: |
           for file in $(find . -name "*.yml" -o -name "*.yaml"); do
-            ajv validate -s .github/schema/dog-schema.json -d "$file" || exit 1
+            ajv validate -s .github/schema/animal.json -d "$file" || exit 1
           done
 
   build:
