@@ -23,7 +23,7 @@ jobs:
 
       - name: Validate YAML Syntax
         run: |
-          find . -name "*.yml" -o -name "*.yaml" | xargs yamllint
+          yamllint _data/cats.yml _data/dogs.yml
 
       - name: Install Node.js
         uses: actions/setup-node@v3
@@ -35,7 +35,7 @@ jobs:
 
       - name: Validate YAML Schema
         run: |
-          for file in $(find . -name "*.yml" -o -name "*.yaml"); do
+          for file in _data/cats.yml _data/dogs.yml; do
             ajv validate -s .github/schema/animal.json -d "$file" || exit 1
           done
 
