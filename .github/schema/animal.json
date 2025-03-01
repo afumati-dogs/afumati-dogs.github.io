@@ -17,7 +17,7 @@
       "größe": { "type": "string", "enum": ["Klein", "Mittelgroß", "Groß"] },
       "geschlecht": { "type": "string", "enum": ["Männlich", "Weiblich"] },
       "charakter": { "type": "string" },
-      "hunde_nummer": { "type": "string" },
+      "hunde_nummer": { "type": "number" },
       "text_hund": { "type": "string" },
       "text_zuhause": { "type": "string" },
       "notfall": { "type": "boolean" }
