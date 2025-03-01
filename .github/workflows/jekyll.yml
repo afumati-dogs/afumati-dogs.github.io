@@ -33,6 +33,16 @@ jobs:
           bundle lock --add-platform ruby
           bundle install
 
+      - name: Validate YAML Syntax
+        run: |
+          find . -name "*.yml" -o -name "*.yaml" | xargs yamllint
+
+      - name: Validate YAML Schema
+        run: |
+          for file in $(find . -name "*.yml" -o -name "*.yaml"); do
+            ajv validate -s .github/schema/dog-schema.json -d "$file" || exit 1
+          done
+
       - name: Build Jekyll site
         run: bundle exec jekyll build
 
