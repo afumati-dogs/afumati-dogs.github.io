@@ -17,7 +17,7 @@ Tier anlegen nach folgendem Schema:
 
 ```
 - name: Alvin
-  age: 12.2018
+  age: 12/2018
   size: Mittelgroß
   sex: Männlich
   character: lieb
@@ -49,13 +49,13 @@ Dann auf `Add File` klicken und im Dropdown `Create new File` auswählen:
 ![Data](./readme-images/add_file_to_dogs.png)
 Es öffnet sich der Fileeditor mit dem Feld zum Eingeben eines Filenamens:
 ![Data](./readme-images/update_name.png)
-In diesem Feld erst den TierTyp also dogs oder cats eingeben und anschließend einen `/` tippen; Dadurch wird ein Ordner erstellt. Als nächstes den Tiernamen eingeben und anschließend einen /`; dann als Name des Files: `.gitkeep` angeben. Das Ganze sieht dann so aus:
+In diesem Feld erst den TierTyp also dogs oder cats eingeben und anschließend einen `/` tippen; Dadurch wird ein Ordner erstellt. Als nächstes den Tiernamen eingeben und anschließend einen /`; dann als Name des Files: `.gitkeep`angeben. Das Ganze sieht dann so aus:
 ![Data](./readme-images/create_dog_folder.png)
-Auf `Commit Changes` klicken und den Dialog bestätigen:
+Auf`Commit Changes`klicken und den Dialog bestätigen:
 ![Dogs](./readme-images/commit_dialog.png)
 Es öffnet sich der erstellte Ordner.
-Auf `Upload Files` klicken und Bilder auswählen.
-Anschließend wieder auf `Commit Changes` klicken.
+Auf`Upload Files`klicken und Bilder auswählen.
+Anschließend wieder auf`Commit Changes` klicken.
 ![Dogs](./readme-images/images_uploaded.png)
 
 Die Seite wird danach automatisch mit dem neuen Bildern geupdatet!
