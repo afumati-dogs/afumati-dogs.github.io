@@ -142,14 +142,14 @@
   hunde_nummer: 747
   text_hund: Mathilda wurde 2021 aus einem illegalen Shelter in Gheorghenie gerettet. Im Tierheim zeigt sie sich sozial und lieb, aber auch sehr vorsichtig. Sie lässt sich streicheln und anfassen, ist niemals aggressiv, aber ist ängstlich und braucht Zeit, um Vertrauen zu fassen. Mathilda kann sich im Rudel nicht behaupten und ist sehr unterwürfig. Oft steht sie aufgrund dessen etwas hinten an. Sie ist nicht in ihrer Angst gefangen, sondern lässt menschlichen Kontakt zu und freut sich darüber. Die sanftmütige Mathilda braucht einfach nur ein liebes, geduldiges Zuhause. 
   text_zuhause: Für Mathilda suchen wir geduldige, liebe Menschen, die ihr die Zeit geben, die sie braucht. Mathilda muss unbedingt aus dem Tierheim kommen, bevor sie sich ganz aufgibt und noch zurückhaltender wird. Immer wird diese schöne Hündin übersehen, steht im Schatten der anderen, und wartet einfach nur auf ihre Chance!
-- name: Jerry
-  alter: 12.2018
-  größe: groß
+- name: Milan
+  alter: 08.2018
+  größe: mittelgroß
   geschlecht: Männlich
-  charakter: aktiv, intelligent
-  hunde_nummer: 685
-  text_hund: Jerry kam von einer anderen Tierschützerin zu uns. Er wartete bei ihr schon sehr lange im Shelter, und leider wartet er nun auch schon mehrere Jahre bei uns. Jerry ist stark, imposant und ausgesprochen lebhaft. Bei Artgenossen entscheidet die Sympathie, wir sehen Jerry aber eher als Einzelhund, da er immer gern die Hosen an hat.
-  text_zuhause: Für Jerry brauchen wir unbedingt sehr hundeerfahrene Menschen, die ihm eine konsequente Führung bieten und sich nicht einschüchtern lassen. Jerry sollte in ein kinderloses Zuhause vermittelt werden.
+  charakter: schüchtern, vorsichtig, skeptisch, lieb, ruhig
+  hunde_nummer: 745
+  text_hund: Milan ist ein ruhiger, vorsichtiger und schüchterner Rüde. Er ist nicht aggressiv, lässt sich anfassen und streicheln. Er ist überhaupt kein Streithahn, stellt sich immer hinten an, ist unheimlich sozial und möchte einfach keine Probleme machen. Er kann es gar nicht glauben, dass es liebe Menschen gibt, die ihn streicheln möchten und ihm Aufmerksamkeit schenken. Unser hübscher Milan braucht einfach nur etwas Zeit, um Vertrauen zu lernen.
+  text_zuhause: Für Milan suchen wir geduldige, liebe Menschen, gern mit Hundeerfahrung. Er braucht viel Zeit und Liebe, um in seinem neuen Leben anzukommen. Daher sind ruhige, selbstsichere Menschen unerlässlich für Milan. 
 - name: Jerry
   alter: 12.2018
   größe: groß
