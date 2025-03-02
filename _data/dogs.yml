@@ -1,5 +1,5 @@
 - name: Ruben
-  alter: 09.2021
+  alter: 09/2021
   größe: Mittelgroß
   geschlecht: Männlich
   charakter: lieb, aktiv, verspielt, neugierig, sozial, verschmust
@@ -8,7 +8,7 @@
   text_zuhause: Für Ruben suchen wir Menschen, die ihm viel Aufmerksamkeit schenken und selbst noch gut zu Fuß sind.
   notfall: true
 - name: Roby
-  alter: 09.2021
+  alter: 09/2021
   größe: Mittelgroß
   geschlecht: Männlich
   charakter: schüchtern, vermust, freundlich, gegenüber Artgenossen sehr vorsichtig
@@ -16,7 +16,7 @@
   text_hund: Roby ist anfangs unsicher und schüchtern. Gegenüber Frauen taut er deutlich schneller auf. Hast du einmal sein Vertrauen gewonnen, dann ist er ein großer Schmuser und freut sich über Aufmerksamkeiten. Roby wurde mit seinen Brüdern auf einem Feld gefunden. Er ist sehr menschenbezogen und freundlich. Dei einer Beißerei wurde er schwer verletzt und seine Rute musste amputiert werden. Dadurch musste er lange Zeit in der Klinik verbingen, was für ihn keine schöne Erfahrung war. Heute ist Roby gesund und munter und bereit für ein neues Zuhause. Roby muss zwingend Nassfutter gefüttert bekommen.
   text_zuhause: Roby braucht ein Zuhause mit souveräner Führung und Geduld. Er braucht Zeit, um Vertrauen zu fassen (das fällt ihm bei Frauen leichter als bei Männern). Erfahrung mit ängstlichen Hunden wäre wünschenswert.
 - name: Lucky
-  alter: 08.2019
+  alter: 08/2019
   größe: groß
   geschlecht: Männlich
   charakter: sanft, freundlich, liebevoll, aktiv, ruhig
@@ -24,7 +24,7 @@
   text_hund: Lucky ist ein unheimlich sanfter, freundlicher und liebevoller Rüde. Wir vermuten, dass Schäferhund in ihm steckt. Lucky wurde aus einem illegalen Shelter gerettet, in welchem er unter furchtbaren Bedingungen leben musste. 2024 ist seine beste Freundin Cora, mit der er sich seinen Zwinger geteilt hat, verstorben. Lucky trauert sehr um Cora.
   text_zuhause: Wir wünschen uns für Lucky liebevolle Menschen, die seine anfängliche Skepsis gegenüber Neuem nicht abschreckt. Lucky ist, sobald er Vertrauen gefasst hat, ein ganz sanfter und toller Rüde!
 - name: Sugar
-  alter: 08.2019
+  alter: 08/2019
   größe: klein bis mittelgroß
   geschlecht: Weiblich
   charakter: schüchtern, ängstlich, lieb, unterwürfig, freundlich
@@ -32,7 +32,7 @@
   text_hund: Sugar hatte bisher wenig Glück in ihrem Leben. 2021 wurde sie von uns aus einem illegalen Shelter in Gheorghenie gerettet, in welchem sie mutmaßlich jahrelang den schlimmen Haltungsbedingungen ausgesetzt war. Bei uns im Afumati-Tierheim brachte sie dann zwei Babies zur Welt, doch durch Sugar's Mangelernährung während der Schwangerschaft waren beide Welpen nicht lebensfähig. Sugar lebt bei uns allein in einem Zwinger, da sie von anderen Hunden oftmals drangsaliert wurde - sie ist zu schüchtern und zu lieb, um sich zu behaupten. Sugar ist noch schüchtern und ängstlich, ist dabei aber niemals aggressiv. Sie lässt sich problemlos anfassen und macht sehr große Forschritte.
   text_zuhause: Für Sugar wünschen wir uns geduldige und liebevolle Menschen, die ihr ausreichend Zeit geben, um Vertrauen aufzubauen. Man sollte freundlich und geduldig mit ihr umgehen, und dann wird die kleine Sugar ein ganz toller Begleiter sein!
 - name: Lika
-  alter: 08.2018
+  alter: 08/2018
   größe: mittelgroß - groß
   geschlecht: Weiblich
   charakter: vorsichtig, neugierig, lieb, nicht dominant, agil, verspielt, aufgeschlossen
@@ -40,7 +40,7 @@
   text_hund: Lika ist eine wunderschöne Hündin, die Bewegung liebt und 2021 aus einem illegalen Shelter in Gheorghenie gerettet wurde. Lika ist, vor allem gegenüber Männern, sehr vorsichtig. Sie macht aber unheimlich tolle Fortschritte bei uns. Likea ist eine freundliche, aufgeschlossene und neugierige Hündin.
   text_zuhause: Für Lika wünschen wir uns ein liebevolles, geduldiges Zuhause, das ihr dabei hilft, Vertrauen zu fassen. Sie braucht Menschen, die gern aktiv sind und sich ihr liebevoll annehmen.
 - name: Jerry
-  alter: 12.2018
+  alter: 12/2018
   größe: groß
   geschlecht: Männlich
   charakter: aktiv, intelligent
@@ -48,7 +48,7 @@
   text_hund: Jerry kam von einer anderen Tierschützerin zu uns. Er wartete bei ihr schon sehr lange im Shelter, und leider wartet er nun auch schon mehrere Jahre bei uns. Jerry ist stark, imposant und ausgesprochen lebhaft. Bei Artgenossen entscheidet die Sympathie, wir sehen Jerry aber eher als Einzelhund, da er immer gern die Hosen an hat.
   text_zuhause: Für Jerry brauchen wir unbedingt sehr hundeerfahrene Menschen, die ihm eine konsequente Führung bieten und sich nicht einschüchtern lassen. Jerry sollte in ein kinderloses Zuhause vermittelt werden.
 - name: Jack
-  alter: 01.2018
+  alter: 01/2018
   größe: groß
   geschlecht: Männlich
   charakter: vorsichtig, lieb, mag es aktuell noch nicht viel angefasst zu werden
@@ -56,7 +56,7 @@
   text_hund: Jack ist ein ganz lieber Kerl, nicht zu stürmisch, freundlich und einfach ein süßer Wuschel. Jedoch ist unser Jack nichts für Anfänger - er kann aggressiv werden, wenn er sich bedroht fühlt (was z.B. beim Besuch des Hundefriseurs vorkommt).
   text_zuhause: Für Jack brauchen wir unbedingt sehr hundeerfahrene Menschen, die ihm eine konsequent begegnen, sich nicht einschüchtern lassen und mit einem ängstlichen Hund umgehen können. Jack sollte in ein kinderloses Zuhause vermittelt werden.
 - name: Curry
-  alter: 08.2019
+  alter: 08/2019
   größe: klein - mittel
   geschlecht: Weiblich
   charakter: aktiv, intelligent, neugierig, aufgeweckt, vorsichtig
@@ -64,15 +64,15 @@
   text_hund: Curry ist noch vorsichtig und braucht Zeit, um Vertrauen aufzubauen. Sie ist sehr clever, freundlich, eher unterwürfig und aufgeweckt. Sie freut sich über kleine Aufmerksamkeiten.
   text_zuhause: Für Curry suchen wir geduldige Menschen, die ihr ausreichend Zeit geben, um Vertrauen aufzubauen. Hundeerfahrung wäre von Vorteil.
 - name: Masha
-  alter: 08.2018
+  alter: 08/2018
   größe: mittel
   geschlecht: Weiblich
   charakter: ruhig, zurückhaltend, freundlich, vorsichtig
   hunde_nummer: 808
-  text_hund: Masha lebt mit Curry zusammen in einem Zwinger, dabei ist sie deutlich diejenige, die den Ton angibt. Masha braucht Zeit, um Vertrauen zu fassen und ist zurückhaltend und vorsichtig. 
+  text_hund: Masha lebt mit Curry zusammen in einem Zwinger, dabei ist sie deutlich diejenige, die den Ton angibt. Masha braucht Zeit, um Vertrauen zu fassen und ist zurückhaltend und vorsichtig.
   text_zuhause: Für Masha suchen wir geduldige Menschen, die ihr ausreichend Zeit geben, um Vertrauen zu fassen. Hundeerfahrung wäre von Vorteil. Bei Artgenossen entscheidet die Sympathie.
 - name: Franka
-  alter: 04.2016
+  alter: 04/2016
   größe: mittel
   geschlecht: Weiblich
   charakter: sanft, verschmust, lieb, ruhig
@@ -80,15 +80,15 @@
   text_hund: Franka ist eine sanfte, freundliche und sehr verschmuste Hundedame. Sie ist topfit und gesund, und immer mit Nassfutter bestechlich (sagt ihr nicht, dass ich euch das verraten habe). Franka liebt schmusen, den Auslauf, und ist neugierig und stets aufgeschlossen. Franka wurde aus der Tötung gerettet.
   text_zuhause: Franka muss nicht in ein Zuhause mit Hundeerfahrung reisen. Wir sehen sie eher als Einzelprinzessin, da bei ihr die Sympathie entscheidet. Franka ist eine ganz liebe Hündin, die nur darauf wartet, endlich gesehen zu werden!
 - name: Luca
-  alter: 06.2019
+  alter: 06/2019
   größe: mittel - groß
   geschlecht: Männlich
   charakter: zurückhaltend, schüchtern, lieb, freundlich, sozial
   hunde_nummer: 731
-  text_hund: Luca ist ein ruhiger, genügsamer Hund, der anfangs eher vorsichtig ist. In ihm steckt ein kerngesunder, aktiver Hund, der auch nur so geliebt werden möchte, wie er ist. Luca ist durch sein fehlendes Hinterbein nicht eingeschränkt - er macht alles wie andere Hunde auch und kommt ganz super zurecht. 
+  text_hund: Luca ist ein ruhiger, genügsamer Hund, der anfangs eher vorsichtig ist. In ihm steckt ein kerngesunder, aktiver Hund, der auch nur so geliebt werden möchte, wie er ist. Luca ist durch sein fehlendes Hinterbein nicht eingeschränkt - er macht alles wie andere Hunde auch und kommt ganz super zurecht.
   text_zuhause: Luca braucht geduldige, liebevolle Menschen, die ihn so akzeptieren, wie er ist. Es wäre natürlich sehr schön, wenn in seinem neuen zuhause möglichst wenig Treppen wären, die er täglich gehen müsste. Luca ist ein wundervoller Wegbegleiter, wenn man ihm etwas Zeit, Liebe und Geduld schenkt!
 - name: Buddy
-  alter: 02.2018
+  alter: 02/2018
   größe: mittel - groß
   geschlecht: Männlich
   charakter: ängstlich, schüchtern, zurückhaltend, freundlich
@@ -96,7 +96,7 @@
   text_hund: Buddy kommt aus einem illegalen Shelter in Gheorghenie. Er ist noch sehr ängstlich und misstrauisch, aber nicht aggressiv. Er hat einfach zu viel schlechtes erlebt, was bei ihm zu einer gewissen Skepsis gegenüber Menschen und Neuem geführt hat. Buddy wird immer wieder übersehen, dabei ist er ein wunderschöner, lieber Rüde.
   text_zuhause: Für Buddy suchen wir Menschen mit Hundeerfahrung, bevorzugt sogar mit Erfahrung mit ängstlichen Hunden. Buddy braucht geduldige Menschen, die ihn verstehen und ihm seine Skepsis nicht übel nehmen. Er sucht nach Menschen, die ihn endlich sehen und ihm die Chance schenken, richtig aufzublühen - und dass es noch ganz viel tolles da draußen gibt.
 - name: Amari
-  alter: 08.2018
+  alter: 08/2018
   größe: mittel - groß
   geschlecht: Weiblich
   charakter: aktiv, intelligent, aufgeschlossen, freundlich, menschenbezogen, lauffreudig
@@ -104,54 +104,46 @@
   text_hund: Amari ist eine sehr sportliche, freundliche und aufgeschlossene Hündin. Sie wurde aus einem illegalen Shelter gerettet. Mit ihrem wunderschönen, weiß-grauen Fell und ihren Schlappöhrchen kann sie einem nur direkt ins Herz springen! - so, wie sie auch gern über niedrige Zäune springt. Amari hat viel Energie und würde sich bestimmt ganz toll als Begleitung beim Joggen machen.
   text_zuhause: Für Amari suchen wir eheer ein Zuhause als Einzelprinzessin. Wir würden uns sehr freuen, wenn Amari zu sportlichen, agilen Menschen ziehen dürfte. Hundeerfahrung wäre von Vorteil.
 - name: Carlo
-  alter: 12.2018
+  alter: 12/2018
   größe: groß
   geschlecht: Männlich
   charakter: aktiv, intelligent
   hunde_nummer: 685
-  text_hund: Jerry kam von einer anderen Tierschützerin zu uns. Er wartete bei ihr schon sehr lange im Shelter, und leider wartet er nun auch schon mehrere Jahre bei uns. Jerry ist stark, imposant und ausgesprochen lebhaft. Bei Artgenossen entscheidet die Sympathie, wir sehen Jerry aber eher als Einzelhund, da er immer gern die Hosen an hat.
-  text_zuhause: Für Jerry brauchen wir unbedingt sehr hundeerfahrene Menschen, die ihm eine konsequente Führung bieten und sich nicht einschüchtern lassen. Jerry sollte in ein kinderloses Zuhause vermittelt werden.
-- name: Jerry
-  alter: 08.2020
-  größe: groß
-  geschlecht: Männlich
-  charakter: ruhig, zurückhaltend, sozial, schüchtern
-  hunde_nummer: 789
   text_hund: Carlo ist gegenüber fremden Menschen sehr zurückhaltend, vorsichtig und skeptisch. Er ist ein lieber, sehr sozialer Rüde, der nur auf seine Chance bei den richtigen Menschen wartet.
-  text_zuhause: Für Carlo suchen wir bevorzugt ruhige, geduldige Menschen, die Hundeerfahrung haben und sich Carlo gern annehmen - denn er braucht seine Zeit, um Vertrauen zu fassen. 
+  text_zuhause: Für Carlo suchen wir bevorzugt ruhige, geduldige Menschen, die Hundeerfahrung haben und sich Carlo gern annehmen - denn er braucht seine Zeit, um Vertrauen zu fassen.
 - name: Laila
-  alter: 12.2015
+  alter: 12/2015
   größe: mittelgroß
   geschlecht: Weiblich
   charakter: charmant, intelligent, sehr verschmust, aufgeschlossen, menschenbezogen, liebevoll, sehr sozial, genügsam, gut umgänglich
-  text_hund:  Laila ist einfach ein aboluter Goldschatz - unser Oberschmusi, unheimlich charmant, hat so viel Liebe zu geben, versteht sich hervorragend mit jedem, leicht umgänglich. Laila strahlt nur so vor Lebensfreude und Dankbarkeit.
-  text_zuhause: Laila hat Arthrose und bekommt dafür Arthoprotect. Ihr geht es sehr gut damit, sie rennt und spielt und hat keine Schmerzen. Dennoch wünschen wir uns ein Zuhause mit möglich wenig Treppen oder alternativ einem Aufzug. Laila können wir uns in einem Zuhause mit Kindern oder Artgenossen genauso gut vorstellen, wie als Ersthund. Sie ist unheimlich freudnlich und dank ihrer lieben Art auch für Anfänger geeignet. 
+  text_hund: Laila ist einfach ein aboluter Goldschatz - unser Oberschmusi, unheimlich charmant, hat so viel Liebe zu geben, versteht sich hervorragend mit jedem, leicht umgänglich. Laila strahlt nur so vor Lebensfreude und Dankbarkeit.
+  text_zuhause: Laila hat Arthrose und bekommt dafür Arthoprotect. Ihr geht es sehr gut damit, sie rennt und spielt und hat keine Schmerzen. Dennoch wünschen wir uns ein Zuhause mit möglich wenig Treppen oder alternativ einem Aufzug. Laila können wir uns in einem Zuhause mit Kindern oder Artgenossen genauso gut vorstellen, wie als Ersthund. Sie ist unheimlich freudnlich und dank ihrer lieben Art auch für Anfänger geeignet.
 - name: Rosi
-  alter: 08.2019
+  alter: 08/2019
   größe: groß
   geschlecht: Weiblich
   charakter: ruhig, sanft, ängstlich, schüchtern
   hunde_nummer: 787
-  text_hund:  Rosi wurde aus einem illegalen Shelter in Gheorghenie gerettet. Seit ihrer rettung im Jahr 2021 wartet sie nun im Tierheim auf ihre Menschen. Sie ist eine liebenswerte, schüchterne Hündin, die sich nicht vordrängt und lieber das Geschene aus einer gewissen Entfernung beobachtet. Sie braucht viel Zeit, um Vertrauen zu fassen - zu oft wurde sie von Menschen verstoßen.
+  text_hund: Rosi wurde aus einem illegalen Shelter in Gheorghenie gerettet. Seit ihrer rettung im Jahr 2021 wartet sie nun im Tierheim auf ihre Menschen. Sie ist eine liebenswerte, schüchterne Hündin, die sich nicht vordrängt und lieber das Geschene aus einer gewissen Entfernung beobachtet. Sie braucht viel Zeit, um Vertrauen zu fassen - zu oft wurde sie von Menschen verstoßen.
   text_zuhause: Für Rosi suchen wir eine Familie oder Einzelperson, die ihr so viel Zeit gibt, wie nötig - geduldige, empathische Menschen sind essentiell für Rosi. Sie wird ängstlich auf verschiedene Alltagssituationen reagieren und braucht jemanden, der sie dabei geduldig und liebevoll begleitet und ihr zeigt, wie schön ein Hundeleben in Sicherheit sein kann.
 - name: Mathilda
-  alter: 08.2018
+  alter: 08/2018
   größe: mittelgroß
   geschlecht: Weiblich
   charakter: schüchtern, ängstlich, vorsichtig, lieb
   hunde_nummer: 747
-  text_hund: Mathilda wurde 2021 aus einem illegalen Shelter in Gheorghenie gerettet. Im Tierheim zeigt sie sich sozial und lieb, aber auch sehr vorsichtig. Sie lässt sich streicheln und anfassen, ist niemals aggressiv, aber ist ängstlich und braucht Zeit, um Vertrauen zu fassen. Mathilda kann sich im Rudel nicht behaupten und ist sehr unterwürfig. Oft steht sie aufgrund dessen etwas hinten an. Sie ist nicht in ihrer Angst gefangen, sondern lässt menschlichen Kontakt zu und freut sich darüber. Die sanftmütige Mathilda braucht einfach nur ein liebes, geduldiges Zuhause. 
+  text_hund: Mathilda wurde 2021 aus einem illegalen Shelter in Gheorghenie gerettet. Im Tierheim zeigt sie sich sozial und lieb, aber auch sehr vorsichtig. Sie lässt sich streicheln und anfassen, ist niemals aggressiv, aber ist ängstlich und braucht Zeit, um Vertrauen zu fassen. Mathilda kann sich im Rudel nicht behaupten und ist sehr unterwürfig. Oft steht sie aufgrund dessen etwas hinten an. Sie ist nicht in ihrer Angst gefangen, sondern lässt menschlichen Kontakt zu und freut sich darüber. Die sanftmütige Mathilda braucht einfach nur ein liebes, geduldiges Zuhause.
   text_zuhause: Für Mathilda suchen wir geduldige, liebe Menschen, die ihr die Zeit geben, die sie braucht. Mathilda muss unbedingt aus dem Tierheim kommen, bevor sie sich ganz aufgibt und noch zurückhaltender wird. Immer wird diese schöne Hündin übersehen, steht im Schatten der anderen, und wartet einfach nur auf ihre Chance!
 - name: Milan
-  alter: 08.2018
+  alter: 08/2018
   größe: mittelgroß
   geschlecht: Männlich
   charakter: schüchtern, vorsichtig, skeptisch, lieb, ruhig
   hunde_nummer: 745
   text_hund: Milan ist ein ruhiger, vorsichtiger und schüchterner Rüde. Er ist nicht aggressiv, lässt sich anfassen und streicheln. Er ist überhaupt kein Streithahn, stellt sich immer hinten an, ist unheimlich sozial und möchte einfach keine Probleme machen. Er kann es gar nicht glauben, dass es liebe Menschen gibt, die ihn streicheln möchten und ihm Aufmerksamkeit schenken. Unser hübscher Milan braucht einfach nur etwas Zeit, um Vertrauen zu lernen.
-  text_zuhause: Für Milan suchen wir geduldige, liebe Menschen, gern mit Hundeerfahrung. Er braucht viel Zeit und Liebe, um in seinem neuen Leben anzukommen. Daher sind ruhige, selbstsichere Menschen unerlässlich für Milan. 
+  text_zuhause: Für Milan suchen wir geduldige, liebe Menschen, gern mit Hundeerfahrung. Er braucht viel Zeit und Liebe, um in seinem neuen Leben anzukommen. Daher sind ruhige, selbstsichere Menschen unerlässlich für Milan.
 - name: Leo
-  alter: 08.2014
+  alter: 08/2014
   größe: klein - mittelgroß
   geschlecht: Männlich
   charakter: aktiv, intelligent, genügsam, sozial, freundlich
@@ -159,7 +151,7 @@
   text_hund: 2021 haben wir Leo aus einem illegalen Shelter in Gheorghenie gerettet. Leo ist ein sehr sozialer, freundlicher Rüde, der immernoch sehr aktiv ist und topfit. Leo ist genügsam und gut mit anderen verträglich.
   text_zuhause: Leo ist ein simpler, und genügsamer Hund - Hundeerfahrung ist keine Voraussetzung, um den schönen Rüden zu adoptieren. Genauso können wir uns Leo auch mit Kindern vorstellen.
 - name: Willy
-  alter: 02.2018
+  alter: 02/2018
   größe: groß
   geschlecht: Männlich
   charakter: aktiv, neugierig, freundlich
@@ -167,10 +159,18 @@
   text_hund: Willy wurde 2021 aus einem illegalen Shelter gerettet. Er ist freundlich und gibt in seinem Zwinger den Ton an. Willy lebt mit Leo zusammen in einem Zwinger. Er ist aktiv und sozial. Mit seinem wunderschönen,langem, schokobraunen Fell sticht er einem direkt ins Auge. Anfangs ist Willy etwas schüchtern gegenüber Fremden, zeigt sich im Shelter aber sehr neugierig und selbstbewusst.
   text_zuhause: Willy sollte in ein hundeerfahrenes Zuhause reisen, gern auch zu aktiven Senioren (super toll wäre da natürlich ei Garten, das ist aber kein Muss). Willy möchte gern gefordert und gefördert werden. Bei Rüden entscheidet die Sympathie, mit Hündinnen ist er gut verträglich.
 - name: Jeff
-  alter: 08.2015
+  alter: 08/2015
   größe: mittel - groß
   geschlecht: Männlich
   charakter: aktiv, intelligent, ruhig, schüchtern, unterwürfig
   hunde_nummer: 748
-  text_hund: Jeff wurde 2021 aus einem illegalen Shelter in Gheorghenie gerettet. Er ist höchstwahrscheinlich ein Husky-Mix. Der ruhige, hübsche Rüde wird von uns seperat gefüttert, weil er von den anderen Hunden futter-gemobbt wird. Jeff ist kein dominanter Typ. Er ist sehr sozial und eher unterwürfig. Jeff ist topfit und agil, er liebt den Auslauf auf unserer Wiese. Jeff ist sehr lieb und genügsam. 
+  text_hund: Jeff wurde 2021 aus einem illegalen Shelter in Gheorghenie gerettet. Er ist höchstwahrscheinlich ein Husky-Mix. Der ruhige, hübsche Rüde wird von uns seperat gefüttert, weil er von den anderen Hunden futter-gemobbt wird. Jeff ist kein dominanter Typ. Er ist sehr sozial und eher unterwürfig. Jeff ist topfit und agil, er liebt den Auslauf auf unserer Wiese. Jeff ist sehr lieb und genügsam.
   text_zuhause: Für Jerry wünsche wir uns liebevolle Menschen, gern mit Hundeerfahrung, ist aber kein Muss. Wir könnten uns gut vorstellen, dass er zu aktiven Senioren ziehen kann. Jeff braucht noch viel Auslauf, weshalb längere Spaziergänge sehr schön für ihn wären.
+- name: Spencer *Kopieren*
+  alter: 08/2015
+  größe: mittel
+  geschlecht: Männlich
+  charakter: aktiv
+  hunde_nummer: 1
+  text_hund: text
+  text_zuhause: text

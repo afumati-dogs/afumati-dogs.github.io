@@ -15,12 +15,13 @@ endfor %}
     <div class="box" id="name-box">
       {{ include.animal.name }}<br />
 
-      {% assign birth_date = include.animal.alter | split: "." %} {% assign
-      birth_month = birth_date[0] %} {% assign birth_year = birth_date[1] %} {%
-      assign current_year = "now" | date: "%Y" %} {% assign current_month =
-      "now" | date: "%m" %} {% assign age_years = current_year | minus:
-      birth_year %} {% if current_month < birth_month %} {% assign age_years =
-      age_years | minus: 1 %} {% endif %} {{ age_years }} Jahre
+      {% assign birth_date = include.animal.alter | split: "/" %} {% assign
+      birth_month = birth_date[0] | plus: 0 %} {% assign birth_year =
+      birth_date[1] | plus: 0 %} {% assign current_year = "now" | date: "%Y" |
+      plus: 0 %} {% assign current_month = "now" | date: "%m" | plus: 0 %} {%
+      assign age_years = current_year | minus: birth_year %} {% if current_month
+      < birth_month %} {% assign age_years = age_years | minus: 1 %} {% endif %}
+      {{ age_years }} Jahre
     </div>
   </div>
 </a>
