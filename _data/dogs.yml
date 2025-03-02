@@ -119,14 +119,13 @@
   hunde_nummer: 789
   text_hund: Carlo ist gegenüber fremden Menschen sehr zurückhaltend, vorsichtig und skeptisch. Er ist ein lieber, sehr sozialer Rüde, der nur auf seine Chance bei den richtigen Menschen wartet.
   text_zuhause: Für Carlo suchen wir bevorzugt ruhige, geduldige Menschen, die Hundeerfahrung haben und sich Carlo gern annehmen - denn er braucht seine Zeit, um Vertrauen zu fassen. 
-- name: Jerry 999999999999999999999999
-  alter: 12.2018
-  größe: groß
-  geschlecht: Männlich
-  charakter: aktiv, intelligent
-  hunde_nummer: 685
-  text_hund: Jerry kam von einer anderen Tierschützerin zu uns. Er wartete bei ihr schon sehr lange im Shelter, und leider wartet er nun auch schon mehrere Jahre bei uns. Jerry ist stark, imposant und ausgesprochen lebhaft. Bei Artgenossen entscheidet die Sympathie, wir sehen Jerry aber eher als Einzelhund, da er immer gern die Hosen an hat.
-  text_zuhause: Für Jerry brauchen wir unbedingt sehr hundeerfahrene Menschen, die ihm eine konsequente Führung bieten und sich nicht einschüchtern lassen. Jerry sollte in ein kinderloses Zuhause vermittelt werden.
+- name: Laila
+  alter: 12.2015
+  größe: mittelgroß
+  geschlecht: Weiblich
+  charakter: charmant, intelligent, sehr verschmust, aufgeschlossen, menschenbezogen, liebevoll, sehr sozial, genügsam, gut umgänglich
+  text_hund:  Laila ist einfach ein aboluter Goldschatz - unser Oberschmusi, unheimlich charmant, hat so viel Liebe zu geben, versteht sich hervorragend mit jedem, leicht umgänglich. Laila strahlt nur so vor Lebensfreude und Dankbarkeit.
+  text_zuhause: Laila hat Arthrose und bekommt dafür Arthoprotect. Ihr geht es sehr gut damit, sie rennt und spielt und hat keine Schmerzen. Dennoch wünschen wir uns ein Zuhause mit möglich wenig Treppen oder alternativ einem Aufzug. Laila können wir uns in einem Zuhause mit Kindern oder Artgenossen genauso gut vorstellen, wie als Ersthund. Sie ist unheimlich freudnlich und dank ihrer lieben Art auch für Anfänger geeignet. 
 - name: Jerry
   alter: 12.2018
   größe: groß
