@@ -150,27 +150,27 @@
   hunde_nummer: 745
   text_hund: Milan ist ein ruhiger, vorsichtiger und schüchterner Rüde. Er ist nicht aggressiv, lässt sich anfassen und streicheln. Er ist überhaupt kein Streithahn, stellt sich immer hinten an, ist unheimlich sozial und möchte einfach keine Probleme machen. Er kann es gar nicht glauben, dass es liebe Menschen gibt, die ihn streicheln möchten und ihm Aufmerksamkeit schenken. Unser hübscher Milan braucht einfach nur etwas Zeit, um Vertrauen zu lernen.
   text_zuhause: Für Milan suchen wir geduldige, liebe Menschen, gern mit Hundeerfahrung. Er braucht viel Zeit und Liebe, um in seinem neuen Leben anzukommen. Daher sind ruhige, selbstsichere Menschen unerlässlich für Milan. 
-- name: Jerry
-  alter: 12.2018
+- name: Leo
+  alter: 08.2014
+  größe: klein - mittelgroß
+  geschlecht: Männlich
+  charakter: aktiv, intelligent, genügsam, sozial, freundlich
+  hunde_nummer: 781
+  text_hund: 2021 haben wir Leo aus einem illegalen Shelter in Gheorghenie gerettet. Leo ist ein sehr sozialer, freundlicher Rüde, der immernoch sehr aktiv ist und topfit. Leo ist genügsam und gut mit anderen verträglich.
+  text_zuhause: Leo ist ein simpler, und genügsamer Hund - Hundeerfahrung ist keine Voraussetzung, um den schönen Rüden zu adoptieren. Genauso können wir uns Leo auch mit Kindern vorstellen.
+- name: Willy
+  alter: 02.2018
   größe: groß
   geschlecht: Männlich
-  charakter: aktiv, intelligent
-  hunde_nummer: 685
-  text_hund: Jerry kam von einer anderen Tierschützerin zu uns. Er wartete bei ihr schon sehr lange im Shelter, und leider wartet er nun auch schon mehrere Jahre bei uns. Jerry ist stark, imposant und ausgesprochen lebhaft. Bei Artgenossen entscheidet die Sympathie, wir sehen Jerry aber eher als Einzelhund, da er immer gern die Hosen an hat.
-  text_zuhause: Für Jerry brauchen wir unbedingt sehr hundeerfahrene Menschen, die ihm eine konsequente Führung bieten und sich nicht einschüchtern lassen. Jerry sollte in ein kinderloses Zuhause vermittelt werden.
-- name: Jerry
-  alter: 12.2018
-  größe: groß
+  charakter: aktiv, neugierig, freundlich
+  hunde_nummer: 776
+  text_hund: Willy wurde 2021 aus einem illegalen Shelter gerettet. Er ist freundlich und gibt in seinem Zwinger den Ton an. Willy lebt mit Leo zusammen in einem Zwinger. Er ist aktiv und sozial. Mit seinem wunderschönen,langem, schokobraunen Fell sticht er einem direkt ins Auge. Anfangs ist Willy etwas schüchtern gegenüber Fremden, zeigt sich im Shelter aber sehr neugierig und selbstbewusst.
+  text_zuhause: Willy sollte in ein hundeerfahrenes Zuhause reisen, gern auch zu aktiven Senioren (super toll wäre da natürlich ei Garten, das ist aber kein Muss). Willy möchte gern gefordert und gefördert werden. Bei Rüden entscheidet die Sympathie, mit Hündinnen ist er gut verträglich.
+- name: Jeff
+  alter: 08.2015
+  größe: mittel - groß
   geschlecht: Männlich
-  charakter: aktiv, intelligent
-  hunde_nummer: 685
-  text_hund: Jerry kam von einer anderen Tierschützerin zu uns. Er wartete bei ihr schon sehr lange im Shelter, und leider wartet er nun auch schon mehrere Jahre bei uns. Jerry ist stark, imposant und ausgesprochen lebhaft. Bei Artgenossen entscheidet die Sympathie, wir sehen Jerry aber eher als Einzelhund, da er immer gern die Hosen an hat.
-  text_zuhause: Für Jerry brauchen wir unbedingt sehr hundeerfahrene Menschen, die ihm eine konsequente Führung bieten und sich nicht einschüchtern lassen. Jerry sollte in ein kinderloses Zuhause vermittelt werden.
-- name: Jerry
-  alter: 12.2018
-  größe: groß
-  geschlecht: Männlich
-  charakter: aktiv, intelligent
-  hunde_nummer: 685
-  text_hund: Jerry kam von einer anderen Tierschützerin zu uns. Er wartete bei ihr schon sehr lange im Shelter, und leider wartet er nun auch schon mehrere Jahre bei uns. Jerry ist stark, imposant und ausgesprochen lebhaft. Bei Artgenossen entscheidet die Sympathie, wir sehen Jerry aber eher als Einzelhund, da er immer gern die Hosen an hat.
-  text_zuhause: Für Jerry brauchen wir unbedingt sehr hundeerfahrene Menschen, die ihm eine konsequente Führung bieten und sich nicht einschüchtern lassen. Jerry sollte in ein kinderloses Zuhause vermittelt werden.
+  charakter: aktiv, intelligent, ruhig, schüchtern, unterwürfig
+  hunde_nummer: 748
+  text_hund: Jeff wurde 2021 aus einem illegalen Shelter in Gheorghenie gerettet. Er ist höchstwahrscheinlich ein Husky-Mix. Der ruhige, hübsche Rüde wird von uns seperat gefüttert, weil er von den anderen Hunden futter-gemobbt wird. Jeff ist kein dominanter Typ. Er ist sehr sozial und eher unterwürfig. Jeff ist topfit und agil, er liebt den Auslauf auf unserer Wiese. Jeff ist sehr lieb und genügsam. 
+  text_zuhause: Für Jerry wünsche wir uns liebevolle Menschen, gern mit Hundeerfahrung, ist aber kein Muss. Wir könnten uns gut vorstellen, dass er zu aktiven Senioren ziehen kann. Jeff braucht noch viel Auslauf, weshalb längere Spaziergänge sehr schön für ihn wären.
