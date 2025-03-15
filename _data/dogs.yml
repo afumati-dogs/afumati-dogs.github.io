@@ -230,6 +230,7 @@
   hunde_nummer: 964
   text_hund: Alwin ist noch ängstlich und vorsichtig. Er wurde 2021 aus einem illegalen Shelter in Gheorghenie gerettet und befindet sich seit längerer Zeit auf einer Pflegstelle (PLZ 25712).
   text_zuhause: Alwin muss in geduldige, hundeerfahrene Hände - er braucht Menschen, die ihm Zeit geben und ihm zeigen, wie schön ein Hundeleben sein kann.
+  notfall: true
   - name: Jaka
   alter: 02/2018
   größe: mittel
@@ -238,6 +239,7 @@
   hunde_nummer: 965
   text_hund: Jaka befindet sich auf einer Pflegestelle (PLZ 25712). Er stammt aus einem illegalen Shelter in Gheorghenie, aus dem er 2021 gerettet wurde. Jaka kennt die Grundkommandos, läuft prima an der Leine und ist sehr vertäglich und menschenbezogen.
   text_zuhause: Jaka hat keine hohen Ansprüche - er möchte einfach endlich in seinem Für-Immer-Zuhause ankommen und geliebt werden. Mit Jaka bekommt man einen Tierschutzhund, der schon viel gelernt hat und Menschen vertraut. Artgenossen dürfen gern in seinem Zuhause leben.
+  notfall: true
 - name: Evi
   alter: 01/2021
   größe: mittel
