@@ -23,10 +23,7 @@ email: asociatiahelpofafumatidogs@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Ehrenamtliche Tierschutzorganisation in Rumänien für Hunde und Katzen.
 
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
-instagram_username: jekyllrb
-facebook_username: jekyll
+url: "https://afumati-dogs.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Build settings
 safe: false
