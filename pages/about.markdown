@@ -21,4 +21,11 @@ und warten jetzt im Afumati Tierheim auf ihr großes Glück - ein Zuhause bei <s
         width: 100%;
     }
 
+  @media only screen and (max-width: 1920px) {
+    .placeholder {
+      width: 65vw;
+    }
+}
+
+
 </style>

@@ -172,7 +172,7 @@
   geschlecht: Weiblich
   charakter: zurückhaltend, freundlich
   hunde_nummer: 500
-  text_hund: Senta und ihre sechs Welpen wurden in drei Plastiksäcke gestopft und ihrem Schicksal überlassen. Glücklicherweise konnten wir sie retten. Sentas Welpen sind mittlerweile alle vermittelt..nur Senta blieb zurück, immer übersehen. In Sentas Augen sieht man wie viel Leid sie schon ertragen musste. 
+  text_hund: Senta und ihre sechs Welpen wurden in drei Plastiksäcke gestopft und ihrem Schicksal überlassen. Glücklicherweise konnten wir sie retten. Sentas Welpen sind mittlerweile alle vermittelt..nur Senta blieb zurück, immer übersehen. In Sentas Augen sieht man wie viel Leid sie schon ertragen musste.
   text_zuhause: Für Senta suchen wir idealerweise ein Zuhause ohne Artgenossen, da sie nicht mit allen verträglich ist. Wir wünschen uns eine liebevolle Familie mit viel Geduld und Verständnis für diese hübsche Hündin. Wer Senta die Zeit gibt, die sie braucht wird einen ganz tollen Hund an seiner Seite wissen!
 - name: Ronja
   alter: 08/2014
@@ -181,8 +181,8 @@
   charakter: ruhig, schüchtern
   hunde_nummer: 734
   text_hund: Ronja spürt, dass das Leben es bisher nicht gut mit ihr gemeint hat - sie ist anfangs skeptisch und zurückhaltend. Sie wurde mit vielen anderen Hunden aus einem illegalen Shelter in Gheorghenie gerettet. Sie wünscht sich nichts mehr, als endlich Liebe und Wärme zu spüren und endlich gewollt zu werden.
-  text_zuhause: Für Ronja wünschen wir uns geduldige, liebevolle Menschen, die ihr die Zeit geben, die sie braucht. Ein souveräner Ersthund würde Ronja sehr helfen anzukommen und Vertrauen zu fassen. 
- - name: Mailo
+  text_zuhause: Für Ronja wünschen wir uns geduldige, liebevolle Menschen, die ihr die Zeit geben, die sie braucht. Ein souveräner Ersthund würde Ronja sehr helfen anzukommen und Vertrauen zu fassen.
+- name: Mailo
   alter: 06/2017
   größe: mittel
   geschlecht: Männlich
@@ -190,15 +190,15 @@
   hunde_nummer: 742
   text_hund: Gemeinsam mit Mitena und Jeff lebt Mailo in Zwinger 5 im hinteren Tierheimbereich. Mailo wurde bsiher immer übersehen. Der schöne Rüde ist ca. 44cm groß, intelligent, sozial und schmust gern. Er ist sehr freundlich, lässt sich aber nicht die Butter vom Brot nehmen. Mailo haben wir mit vielen anderen Hunden aus einem illegalen Shelter in Gheorghenie 2021 gerettet. Er ist seither im Tierheim.
   text_zuhause: Mailo sucht ein liebevolles, fürsorgliches Zuhause. Er zeigt sich mit Artgenossen beiderlei Geschlechts gut verträglich. Mailo ist eher ein ruhiger Genossen, genießt aber auch seinen Auslauf.
-  - name: Jakov
+- name: Jakov
   alter: 08/2019
   größe: mittel
   geschlecht: Männlich
   charakter: zurückhaltend, sozial, vorsichtig, freundlich
   hunde_nummer: 752
   text_hund: Jakov ist gut mit Artgenossen verträglich und ein freundlicher Rüde. Er kam aus einem illegalen Shelter in Gheorghenie ganz hoffnungslos bei uns an - seinen Traum, ein liebevolles Zuhause zu finden hatte er aufgegeben. Nun wartet Jakov seit 2021 und seine Hoffnung schwindet zunehmend. Er freut sich über Auslauf und mag seine Hundekumpels sehr, aber auch das beste Tierheim ersetzt kein liebevolles Zuhause.
-  text_zuhause: Wir wünschen uns für Jakov Menschen mit Hundeerfahurng und Empathie, die ihm genug Zeit zum ankommen geben und ihm zeigen, wie schön ein Hundeleben sein kann. Ein sozialer Ersthund wäre von Vorteil, damit Jakov es leichter hat Vertrauen zu fassen. 
-  - name: Mitena
+  text_zuhause: Wir wünschen uns für Jakov Menschen mit Hundeerfahurng und Empathie, die ihm genug Zeit zum ankommen geben und ihm zeigen, wie schön ein Hundeleben sein kann. Ein sozialer Ersthund wäre von Vorteil, damit Jakov es leichter hat Vertrauen zu fassen.
+- name: Mitena
   alter: 08/2018
   größe: mittel
   geschlecht: Weiblich
@@ -206,23 +206,23 @@
   hunde_nummer: 753
   text_hund: Mitena wurde 2021 mit vielen anderen Hunden aus einem illegalen Shelter in Gheorghenie gerettet. Sie schmust unhiemlich gern, genießt die Aufmerksamkeit und liebt den Auslauf. Mitena ist ein ruhiger, dankbarer Schmusebär, und wünscht sich einfach nur geliebt zu werden und gewollt zu sein. Sie ist verträglich mit ihren Artgenossen, kann sich dabei sehr gut durchsetzen.
   text_zuhause: Mitena hat keine hohen Ansprüche - in einem Körbchen zu liegen und Zuneigung zu bekommen ist ihr großer Traum. Mitena ist mit Artgenossen verträglich und genügsam, freundlich und zutraulich. Ein ruhiges Zuhause wäre schön für Mitena. Sie kann auch in eine Familie mit Kindern ziehen.
-  - name: Silan
+- name: Silan
   alter: 08/2016
   größe: mittel
   geschlecht: Männlich
   charakter: ruhig, ängstlich, skeptisch, vorsichtig, misstrauisch
   hunde_nummer: 754
   text_hund: Silan ist noch sehr ängstlich - zu oft hat er schlechtes erlebt. Er wurde 2021 aus einem illegalen Shelter in Gheorghenie gerettet. Seither taut er langsam auf, ist dennoch deutlich änsgtlicher als unsere anderen Hunde. Silan ist nicht aggressiv. In seinen Augen sieht man all den Schmerz und die Hoffnungslosigkeit, die diese arme Seele ertragen musste.
-  text_zuhause: Für Silan suchen wir hundeerfahrene Menschen, es sollte Erfahrung mit ängstlichen Hunden vorliegen. Ein souveräner Ersthund wäre vorteilhaft, ist aber kein Muss. 
-  - name: Nathan
+  text_zuhause: Für Silan suchen wir hundeerfahrene Menschen, es sollte Erfahrung mit ängstlichen Hunden vorliegen. Ein souveräner Ersthund wäre vorteilhaft, ist aber kein Muss.
+- name: Nathan
   alter: 08/2019
   größe: mittel
   geschlecht: Männlich
   charakter: zurückhaltend, schüchtern
   hunde_nummer: 756
-  text_hund: Nathan ist noch vorsichtig, er kommt aus einem illegalen Shelter aus Gheorghenie und wartet seit 2021 bei uns im Shelter auf ein Zuhause. Nathan ist kein Draufgänger, eher unsicher und vorsichtig gegenüber Menschen. Das Leben hat es bisher nicht gut mit Nathan gemeint. 
-  text_zuhause: Nathans Menschen sollten viel Feingefühl und Geduld besitzen, liebevoll sein und ihm Zeit geben. Hundeerfahrung wäre vorteilhaft. 
-  - name: Alwin
+  text_hund: Nathan ist noch vorsichtig, er kommt aus einem illegalen Shelter aus Gheorghenie und wartet seit 2021 bei uns im Shelter auf ein Zuhause. Nathan ist kein Draufgänger, eher unsicher und vorsichtig gegenüber Menschen. Das Leben hat es bisher nicht gut mit Nathan gemeint.
+  text_zuhause: Nathans Menschen sollten viel Feingefühl und Geduld besitzen, liebevoll sein und ihm Zeit geben. Hundeerfahrung wäre vorteilhaft.
+- name: Alwin
   alter: 02/2018
   größe: mittel
   geschlecht: Männlich
@@ -231,7 +231,7 @@
   text_hund: Alwin ist noch ängstlich und vorsichtig. Er wurde 2021 aus einem illegalen Shelter in Gheorghenie gerettet und befindet sich seit längerer Zeit auf einer Pflegstelle (PLZ 25712).
   text_zuhause: Alwin muss in geduldige, hundeerfahrene Hände - er braucht Menschen, die ihm Zeit geben und ihm zeigen, wie schön ein Hundeleben sein kann.
   notfall: true
-  - name: Jaka
+- name: Jaka
   alter: 02/2018
   größe: mittel
   geschlecht: Männlich
@@ -245,6 +245,6 @@
   größe: mittel
   geschlecht: Weiblich
   charakter: aktiv, schüchtern, vorsichtig, freundlich
-  hunde_nummer: 
-  text_hund: Evi ist eine sehr liebevolle Mutter gewesen - ihre Welpen sind alle nun ausgezogen. Evi blieb zurück. In Evi steckt höchstwahrscheinlich Schäferhund oder Mailnois. Sie ist gegenüber Fremden erstmal skeptisch und vorsichtig. Hat sie vertrauen gefasst, lässt sie sich auch streicheln. 
-  text_zuhause: Für Evi suchen wir ein aktives Zuhause, bevorzugt mit Hundeerfahrung und viel Geduld und Einfühlungsvermögen. Sie braucht Zeit, um Vertrauen zu fassen und anzukommen. Wer Evi eine wirkliche Chnace gibt, bekommt mit ihr eine ganz liebevolle, loyale Hündin. 
+  hunde_nummer:
+  text_hund: Evi ist eine sehr liebevolle Mutter gewesen - ihre Welpen sind alle nun ausgezogen. Evi blieb zurück. In Evi steckt höchstwahrscheinlich Schäferhund oder Mailnois. Sie ist gegenüber Fremden erstmal skeptisch und vorsichtig. Hat sie vertrauen gefasst, lässt sie sich auch streicheln.
+  text_zuhause: Für Evi suchen wir ein aktives Zuhause, bevorzugt mit Hundeerfahrung und viel Geduld und Einfühlungsvermögen. Sie braucht Zeit, um Vertrauen zu fassen und anzukommen. Wer Evi eine wirkliche Chnace gibt, bekommt mit ihr eine ganz liebevolle, loyale Hündin.
