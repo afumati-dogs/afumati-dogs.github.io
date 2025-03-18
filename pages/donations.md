@@ -17,7 +17,7 @@ permalink: /donations
       </div>
       <div class="cell">
         <p class="title is-3">Paypal</p>
-        <p><a href="https://www.paypal.com/paypalme/helpafumatidogs" target="_blank">helpafumatidogs@gmail.com</a></p>
+        <p><a href="https://www.paypal.com/paypalme/helpforafumatidogs" target="_blank">helpafumatidogs@gmail.com</a></p>
       </div>
       <div class="cell mt-6">
         <p class="title is-3">Patenschaften</p>

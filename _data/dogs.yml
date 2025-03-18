@@ -15,6 +15,7 @@
   hunde_nummer: 818h
   text_hund: Roby ist anfangs unsicher und schüchtern. Gegenüber Frauen taut er deutlich schneller auf. Hast du einmal sein Vertrauen gewonnen, dann ist er ein großer Schmuser und freut sich über Aufmerksamkeiten. Roby wurde mit seinen Brüdern ausgesetzt. Er ist sehr menschenbezogen und freundlich. Bei einer Beißerei wurde er schwer verletzt und seine Rute musste amputiert werden. Dadurch musste er lange Zeit in der Klinik verbingen, was für ihn keine schöne Erfahrung war. Heute ist Roby gesund und munter und bereit für ein neues Zuhause. Roby muss zwingend Nassfutter gefüttert bekommen.
   text_zuhause: Roby braucht ein Zuhause mit souveräner Führung und Geduld. Er braucht Zeit, um Vertrauen zu fassen (das fällt ihm bei Frauen leichter als bei Männern). Erfahrung mit ängstlichen Hunden wäre wünschenswert.
+  notfall: true
 - name: Lucky
   alter: 08/2019
   größe: groß
@@ -23,6 +24,7 @@
   hunde_nummer: 800
   text_hund: Lucky ist ein unheimlich sanfter, freundlicher und liebevoller Rüde. Wir vermuten, dass Schäferhund in ihm steckt. Lucky wurde aus einem illegalen Shelter gerettet, in welchem er unter furchtbaren Bedingungen leben musste. 2024 ist seine beste Freundin Cora, mit der er sich seinen Zwinger geteilt hat, verstorben. Lucky trauert sehr um Cora.
   text_zuhause: Wir wünschen uns für Lucky liebevolle Menschen, die seine anfängliche Skepsis gegenüber Neuem nicht abschreckt. Lucky ist, sobald er Vertrauen gefasst hat, ein ganz sanfter und toller Rüde!
+  notfall: true
 - name: Sugar
   alter: 08/2019
   größe: klein bis mittelgroß
@@ -222,24 +224,6 @@
   hunde_nummer: 756
   text_hund: Nathan ist noch vorsichtig, er kommt aus einem illegalen Shelter aus Gheorghenie und wartet seit 2021 bei uns im Shelter auf ein Zuhause. Nathan ist kein Draufgänger, eher unsicher und vorsichtig gegenüber Menschen. Das Leben hat es bisher nicht gut mit Nathan gemeint.
   text_zuhause: Nathans Menschen sollten viel Feingefühl und Geduld besitzen, liebevoll sein und ihm Zeit geben. Hundeerfahrung wäre vorteilhaft.
-- name: Alwin
-  alter: 02/2018
-  größe: mittel
-  geschlecht: Männlich
-  charakter: sanftmütig, scheu
-  hunde_nummer: 964
-  text_hund: Alwin ist noch ängstlich und vorsichtig. Er wurde 2021 aus einem illegalen Shelter in Gheorghenie gerettet und befindet sich seit längerer Zeit auf einer Pflegstelle (PLZ 25712).
-  text_zuhause: Alwin muss in geduldige, hundeerfahrene Hände - er braucht Menschen, die ihm Zeit geben und ihm zeigen, wie schön ein Hundeleben sein kann.
-  notfall: true
-- name: Jaka
-  alter: 02/2018
-  größe: mittel
-  geschlecht: Männlich
-  charakter: lieb, schüchtern, verschmust
-  hunde_nummer: 965
-  text_hund: Jaka befindet sich auf einer Pflegestelle (PLZ 25712). Er stammt aus einem illegalen Shelter in Gheorghenie, aus dem er 2021 gerettet wurde. Jaka kennt die Grundkommandos, läuft prima an der Leine und ist sehr vertäglich und menschenbezogen.
-  text_zuhause: Jaka hat keine hohen Ansprüche - er möchte einfach endlich in seinem Für-Immer-Zuhause ankommen und geliebt werden. Mit Jaka bekommt man einen Tierschutzhund, der schon viel gelernt hat und Menschen vertraut. Artgenossen dürfen gern in seinem Zuhause leben.
-  notfall: true
 - name: Evi
   alter: 01/2021
   größe: mittel
