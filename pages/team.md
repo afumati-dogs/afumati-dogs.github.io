@@ -18,9 +18,9 @@ Meist im Alleingang versorgt sie die Tiere Tag ein, Tag aus und rettet somit die
           />
         </a>
             <div class="columns is-multiline">
-                                 <div class="column is-one-third"><div class="box" style="background-image: url('{{ include.animal.image  }}');"></div> </div>
-                                                  <div class="column is-one-third"><div class="box" style="background-image: url('{{ include.animal.image  }}');"></div> </div> 
-                <div class="column is-one-third"><div class="box" style="background-image: url('{{ include.animal.image  }}');"></div> </div>
+                                 <div class="column is-one-third"><div class="box" style="background-image: url('/assets/img/susanne/2.jpg');"></div> </div>
+                                                  <div class="column is-one-third"><div class="box" style="background-image: url('/assets/img/susanne/1.jpg');"></div> </div> 
+                <div class="column is-one-third"><div class="box" style="background-image: url('/assets/img/susanne/3.jpg');"></div> </div>
             </div>
 </div>
 

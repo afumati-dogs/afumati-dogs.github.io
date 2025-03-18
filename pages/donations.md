@@ -5,6 +5,7 @@ permalink: /donations
 ---
 
 <div class="container mt-6">
+<p class="subtitle is-2">Jede Spende, egal wie gering, zählt.</p>
   <div class="fixed-grid">
     <div class="grid">
       <div class="cell">
