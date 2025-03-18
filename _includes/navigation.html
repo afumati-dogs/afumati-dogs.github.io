@@ -25,7 +25,10 @@
 
           <div class="navbar-dropdown">
             {% for dropdown_item in dropdown%}
-            <a href="{{ dropdown_item.link }}" class="navbar-item">
+            <a
+              href="{{ dropdown_item.link | relative_url}}"
+              class="navbar-item"
+            >
               {{ dropdown_item.name }}
             </a>
             {% endfor %}
@@ -34,13 +37,6 @@
         {% else %}
         <a href="{{ item.link }}" class="navbar-item"> {{ item.name }} </a>
         {% endif %} {% endfor %}
-        <a
-          class="navbar-item"
-          href="../Selbstauskunftsbogen_HUND_Stand 01_2022.pdf"
-          target="_blank"
-        >
-          <button class="button is-link">Selbstauskunft</button>
-        </a>
       </div>
       <div class="navbar-item social-media-container">
         <a

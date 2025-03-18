@@ -5,7 +5,7 @@ permalink: /donations
 ---
 
 <div class="container mt-6">
-<p class="subtitle is-2">Jede Spende, egal wie gering, zählt.</p>
+<p class="subtitle is-2 placeholder">Jeder Euro zählt - Wir messen Hilfe nicht an der Höhe der Spende, sondern an der Geste.</p>
   <div class="fixed-grid">
     <div class="grid">
       <div class="cell">
@@ -43,4 +43,19 @@ permalink: /donations
       </div>
     </div>
   </div>
+  <p class="subtitle is-6">Spendenbescheinigungen stellen wir ab 300 € aus.</p>
 </div>
+
+<style>
+    .placeholder {
+        width: 100%;
+    }
+
+  @media only screen and (max-width: 1920px) {
+    .placeholder {
+      width: 65vw;
+    }
+}
+
+
+</style>

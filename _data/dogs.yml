@@ -13,7 +13,7 @@
   geschlecht: Männlich
   charakter: schüchtern, vermust, freundlich, gegenüber Artgenossen sehr vorsichtig
   hunde_nummer: 818h
-  text_hund: Roby ist anfangs unsicher und schüchtern. Gegenüber Frauen taut er deutlich schneller auf. Hast du einmal sein Vertrauen gewonnen, dann ist er ein großer Schmuser und freut sich über Aufmerksamkeiten. Roby wurde mit seinen Brüdern ausgesetzt. Er ist sehr menschenbezogen und freundlich. Dei einer Beißerei wurde er schwer verletzt und seine Rute musste amputiert werden. Dadurch musste er lange Zeit in der Klinik verbingen, was für ihn keine schöne Erfahrung war. Heute ist Roby gesund und munter und bereit für ein neues Zuhause. Roby muss zwingend Nassfutter gefüttert bekommen.
+  text_hund: Roby ist anfangs unsicher und schüchtern. Gegenüber Frauen taut er deutlich schneller auf. Hast du einmal sein Vertrauen gewonnen, dann ist er ein großer Schmuser und freut sich über Aufmerksamkeiten. Roby wurde mit seinen Brüdern ausgesetzt. Er ist sehr menschenbezogen und freundlich. Bei einer Beißerei wurde er schwer verletzt und seine Rute musste amputiert werden. Dadurch musste er lange Zeit in der Klinik verbingen, was für ihn keine schöne Erfahrung war. Heute ist Roby gesund und munter und bereit für ein neues Zuhause. Roby muss zwingend Nassfutter gefüttert bekommen.
   text_zuhause: Roby braucht ein Zuhause mit souveräner Führung und Geduld. Er braucht Zeit, um Vertrauen zu fassen (das fällt ihm bei Frauen leichter als bei Männern). Erfahrung mit ängstlichen Hunden wäre wünschenswert.
 - name: Lucky
   alter: 08/2019
@@ -248,3 +248,19 @@
   hunde_nummer:
   text_hund: Evi ist eine sehr liebevolle Mutter gewesen - ihre Welpen sind alle nun ausgezogen. Evi blieb zurück. In Evi steckt höchstwahrscheinlich Schäferhund oder Mailnois. Sie ist gegenüber Fremden erstmal skeptisch und vorsichtig. Hat sie vertrauen gefasst, lässt sie sich auch streicheln.
   text_zuhause: Für Evi suchen wir ein aktives Zuhause, bevorzugt mit Hundeerfahrung und viel Geduld und Einfühlungsvermögen. Sie braucht Zeit, um Vertrauen zu fassen und anzukommen. Wer Evi eine wirkliche Chnace gibt, bekommt mit ihr eine ganz liebevolle, loyale Hündin.
+- name: Maria
+  alter: ""
+  größe: mittelgroß
+  geschlecht: Weiblich
+  charakter: aufgeweckt, menschenbezogen, schmusig, agil
+  hunde_nummer: ""
+  text_hund: Maria kommt immer an die Tür sobald man ihren Zwinger betritt. Sie ist sehr menschenbezogen und freut sich über jede Aufmerksamkeit. Maria ist sehr agil und verspielt, sie liebt es zu rennen und zu toben. Maria liebt Schmuseeinheiten und ist gegenüber Menschen sehr aufgeschlossen.
+  text_zuhause: ""
+- name: Felix
+  alter: 01/2018
+  größe: klein bis mittelgroß
+  geschlecht: Männlich
+  charakter: schüchtern, skeptisch, braucht Zeit Vertrauen zu fassen
+  hunde_nummer: ""
+  text_hund: Weitere Infos folgen.
+  text_zuhause: ""

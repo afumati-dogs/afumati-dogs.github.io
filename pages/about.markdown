@@ -7,7 +7,7 @@ permalink: /about/
 <div class="container mt-6">
     <div class="placeholder">
       <p class="subtitle is-1">„Die Arbeit ist hart, die Herausforderungen sind groß – aber jedes gerettete Leben ist es wert.“</p>
-    <br> <br> <span class="subtitle is-2">
+   </div> <br> <br> <span class="subtitle is-2">
     Asociatia Help of Afumati Dogs - das kleine rumänische Tierheim im Bezirk Ilfov mit kaum Unterstützung...
     </span>
     <br>    <br>    <br>
@@ -41,7 +41,7 @@ Tolle Unterstützung erhalten die Tiere und ich von einem klitzekleinen Team: Li
 Alle unsere Tiere, die wir hier auf dieser Webseite vorstellen, suchen nämlich immer noch ein liebevolles Zuhause. Durch die Adoption einer Tierschutzkatze oder eines Tierschutzhundes unterstützen Sie unsere Arbeit - und helfen dabei, die Welt eines Tieres, das bisher nie eine Chance hatte, komplett ins Positive zu verändern.
 Für jede Spende, für jede Adoption danke ich Ihnen persönlich als auch mein kleines Team Lily Bär und Andrea Kahl von ganzem Herzen!
 <br><br>
-  <span class="subtitle is-3">Ihre Susanne Titzmann</span></div>
+  <span class="subtitle is-3">Ihre Susanne Titzmann</span>
 
 <h2 class="title is-2 mt-6">Tiervermittlung - Ein zweite Chance schenken</h2>
 <p>Einem Tier aus dem Tierschutz ein Zuhause zu schenken, bedeutet ihm eine zweite Chance zu geben - die Chance auf ein wundervolles Leben. Unsere Tiere kommen aus ganz unterschiedlichen Gründen zu uns:

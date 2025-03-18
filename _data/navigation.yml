@@ -12,5 +12,11 @@
   link: /cats
 - name: Kontakt
   link: /contact
-- name: Susanne
+- name: Vor Ort
   link: /team
+- name: Selbstauskunft
+  dropdown:
+    - name: Hunde
+      link: ../Selbstauskunftsbogen_HUND_Stand 01_2022.pdf
+    - name: Katzen
+      link: ../Vorkontrollbogen KATZE_Stand Januar 2022.pdf
