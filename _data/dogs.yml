@@ -6,7 +6,6 @@
   hunde_nummer: 506
   text_hund: Ruben ist ein totaler Schmuser, verträglich mit Artgenossen, aktiv und neugierig. Er wurde mit seinen Brüdern zusammen ausgesetzt. Bald darf Tony, mit dem sich Ruben einen Zwinger teilt, ausreisen und er bleibt allein zurück
   text_zuhause: Für Ruben suchen wir Menschen, die ihm viel Aufmerksamkeit schenken und selbst noch gut zu Fuß sind.
-
 - name: Roby
   alter: 09/2021
   größe: Mittelgroß
@@ -33,6 +32,7 @@
   hunde_nummer: 783
   text_hund: Sugar hatte bisher wenig Glück in ihrem Leben. 2021 wurde sie von uns aus einem illegalen Shelter in Gheorghenie gerettet, in welchem sie mutmaßlich jahrelang den schlimmen Haltungsbedingungen ausgesetzt war. Bei uns im Afumati-Tierheim brachte sie dann zwei Babies zur Welt, doch durch Sugar's Mangelernährung während der Schwangerschaft waren beide Welpen nicht lebensfähig. Sugar lebt bei uns allein in einem Zwinger, da sie von anderen Hunden oftmals drangsaliert wurde - sie ist zu schüchtern und zu lieb, um sich zu behaupten. Sugar ist noch schüchtern und ängstlich, ist dabei aber niemals aggressiv. Sie lässt sich problemlos anfassen und macht sehr große Forschritte.
   text_zuhause: Für Sugar wünschen wir uns geduldige und liebevolle Menschen, die ihr ausreichend Zeit geben, um Vertrauen aufzubauen. Man sollte freundlich und geduldig mit ihr umgehen, und dann wird die kleine Sugar ein ganz toller Begleiter sein!
+  notfall: true
 - name: Lika
   alter: 08/2018
   größe: mittelgroß - groß
