@@ -10,6 +10,7 @@ title: Asociatia Help of Afumati Dogs
   <head>
     <meta charset="utf-8">
     <title>{{page.title}}</title>
+    <meta name="google-site-verification" content="xsa6IEUSNUSQFTwN8GOPY6s3akKLC9pqFUbrPkY59UY" />
   </head>
   <body>
     <div class="container mt-6" >
