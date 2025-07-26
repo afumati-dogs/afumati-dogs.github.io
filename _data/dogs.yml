@@ -251,14 +251,14 @@
 - name: Rocky
   alter: ""
   größe: ""
-  geschlecht: male
+  geschlecht: Männlich
   charakter: aufgeschlossen, clever, freundlich, munter, neugierig, lieb
   text_hund: Rocky wurde aus der Tötung Alexandria gerettet. Wir nennen ihn liebevoll "Einstein", denn er ist ein sehr intelligentes, cleveres, aufgeschlossenes Kerlchen. Rocky braucht unbedingt ein Zuhause, in dem man sich richtig mit ihm beschäftigen kann. Er ist so lernwillig, freudig und zutraulich. Rocky möchte endlich gesehen werden!
   text_zuhause: Für Rocky suchen wir liebe Menschen, die ihm einfach eine Chance geben möchten und seine Intelligenz und Neugier zu schätzen wissen. Er braucht einfach ein bisschen Beschäftigung und verdient endlich eine Chance!
 - name: Zara
   alter: 01/2023
   größe: klein bis mittelgroß
-  geschlecht: female
+  geschlecht: Weiblich
   charakter: noch scheu, ängstlich, skeptisch, braucht Zeit um Vertrauen zu fassen
   text_hund: Zara wurde aus der Tötung in Alexandria gerettet. Sie ist verträglich mit Artgenossen, aber Menschen gegenüber noch scheu und skeptisch. Sie braucht Zeit, um Vertrauen aufzubauen. Sie möchte vertrauen, aber hat viel schlechtes erlebt. Deshalb braucht sie endlich jemanden, der ihr zeigt, dass Menschen nicht nur böse sind und ein Hundeleben auch toll sein kann.
   text_zuhause: Zara braucht hundeerfahrene, geduldige Menschen, die sich sicher sind, dass sie Zeit und Nerven investieren wollen - denn auch Zara verdient es, zu lernen, dass Menschen nicht nur Böses wollen. Sie braucht jemanden, der an sie glaubt und ihr hilft, ein wundervolles Hundeleben führen zu können. Zara ist kein Anfängerhund.
