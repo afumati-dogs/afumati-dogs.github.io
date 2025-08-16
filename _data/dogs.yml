@@ -1,11 +1,3 @@
-- name: Ruben
-  alter: 09/2021
-  größe: Mittelgroß
-  geschlecht: Männlich
-  charakter: lieb, aktiv, verspielt, neugierig, sozial, verschmust
-  hunde_nummer: 506
-  text_hund: Ruben ist ein totaler Schmuser, verträglich mit Artgenossen, aktiv und neugierig. Er wurde mit seinen Brüdern zusammen ausgesetzt. Bald darf Tony, mit dem sich Ruben einen Zwinger teilt, ausreisen und er bleibt allein zurück
-  text_zuhause: Für Ruben suchen wir Menschen, die ihm viel Aufmerksamkeit schenken und selbst noch gut zu Fuß sind.
 - name: Roby
   alter: 09/2021
   größe: Mittelgroß
@@ -105,14 +97,6 @@
   hunde_nummer: 786
   text_hund: Amari ist eine sehr sportliche, freundliche und aufgeschlossene Hündin. Sie wurde aus einem illegalen Shelter gerettet. Mit ihrem wunderschönen, weiß-grauen Fell und ihren Schlappöhrchen kann sie einem nur direkt ins Herz springen! - so, wie sie auch gern über niedrige Zäune springt. Amari hat viel Energie und würde sich bestimmt ganz toll als Begleitung beim Joggen machen.
   text_zuhause: Für Amari suchen wir eheer ein Zuhause als Einzelprinzessin. Wir würden uns sehr freuen, wenn Amari zu sportlichen, agilen Menschen ziehen dürfte. Hundeerfahrung wäre von Vorteil.
-- name: Carlo
-  alter: 12/2018
-  größe: groß
-  geschlecht: Männlich
-  charakter: aktiv, intelligent
-  hunde_nummer: 685
-  text_hund: Carlo ist gegenüber fremden Menschen sehr zurückhaltend, vorsichtig und skeptisch. Er ist ein lieber, sehr sozialer Rüde, der nur auf seine Chance bei den richtigen Menschen wartet.
-  text_zuhause: Für Carlo suchen wir bevorzugt ruhige, geduldige Menschen, die Hundeerfahrung haben und sich Carlo gern annehmen - denn er braucht seine Zeit, um Vertrauen zu fassen.
 - name: Laila
   alter: 12/2015
   größe: mittelgroß
@@ -200,14 +184,6 @@
   hunde_nummer: 752
   text_hund: Jakov ist gut mit Artgenossen verträglich und ein freundlicher Rüde. Er kam aus einem illegalen Shelter in Gheorghenie ganz hoffnungslos bei uns an - seinen Traum, ein liebevolles Zuhause zu finden hatte er aufgegeben. Nun wartet Jakov seit 2021 und seine Hoffnung schwindet zunehmend. Er freut sich über Auslauf und mag seine Hundekumpels sehr, aber auch das beste Tierheim ersetzt kein liebevolles Zuhause.
   text_zuhause: Wir wünschen uns für Jakov Menschen mit Hundeerfahurng und Empathie, die ihm genug Zeit zum ankommen geben und ihm zeigen, wie schön ein Hundeleben sein kann. Ein sozialer Ersthund wäre von Vorteil, damit Jakov es leichter hat Vertrauen zu fassen.
-- name: Mitena
-  alter: 08/2018
-  größe: mittel
-  geschlecht: Weiblich
-  charakter: aktiv, lieb, schmusig, sanft, ruhig, liebevoll, dankbar, genügsam
-  hunde_nummer: 753
-  text_hund: Mitena wurde 2021 mit vielen anderen Hunden aus einem illegalen Shelter in Gheorghenie gerettet. Sie schmust unhiemlich gern, genießt die Aufmerksamkeit und liebt den Auslauf. Mitena ist ein ruhiger, dankbarer Schmusebär, und wünscht sich einfach nur geliebt zu werden und gewollt zu sein. Sie ist verträglich mit ihren Artgenossen, kann sich dabei sehr gut durchsetzen.
-  text_zuhause: Mitena hat keine hohen Ansprüche - in einem Körbchen zu liegen und Zuneigung zu bekommen ist ihr großer Traum. Mitena ist mit Artgenossen verträglich und genügsam, freundlich und zutraulich. Ein ruhiges Zuhause wäre schön für Mitena. Sie kann auch in eine Familie mit Kindern ziehen.
 - name: Silan
   alter: 08/2016
   größe: mittel
@@ -232,22 +208,13 @@
   hunde_nummer:
   text_hund: Evi ist eine sehr liebevolle Mutter gewesen - ihre Welpen sind alle nun ausgezogen. Evi blieb zurück. In Evi steckt höchstwahrscheinlich Schäferhund oder Mailnois. Sie ist gegenüber Fremden erstmal skeptisch und vorsichtig. Hat sie vertrauen gefasst, lässt sie sich auch streicheln.
   text_zuhause: Für Evi suchen wir ein aktives Zuhause, bevorzugt mit Hundeerfahrung und viel Geduld und Einfühlungsvermögen. Sie braucht Zeit, um Vertrauen zu fassen und anzukommen. Wer Evi eine wirkliche Chnace gibt, bekommt mit ihr eine ganz liebevolle, loyale Hündin.
-- name: Maria
-  alter: ""
-  größe: mittelgroß
-  geschlecht: Weiblich
-  charakter: aufgeweckt, menschenbezogen, schmusig, agil
-  hunde_nummer: ""
-  text_hund: Maria kommt immer an die Tür sobald man ihren Zwinger betritt. Sie ist sehr menschenbezogen und freut sich über jede Aufmerksamkeit. Maria ist sehr agil und verspielt, sie liebt es zu rennen und zu toben. Maria liebt Schmuseeinheiten und ist gegenüber Menschen sehr aufgeschlossen.
-  text_zuhause: ""
 - name: Felix
   alter: 01/2018
   größe: klein bis mittelgroß
   geschlecht: Männlich
-  charakter: schüchtern, skeptisch, braucht Zeit Vertrauen zu fassen
-  hunde_nummer: ""
-  text_hund: ""
-  text_zuhause: ""
+  charakter: schüchtern, braucht Zeit Vertrauen zu fassen, neugierig, freundlich
+  text_hund: Felix ist noch schüchtern, aber neugierig. Er liebt den Auslauf und ist freudig aufgeregt, wenn man an seinen Kennel kommt.
+  text_zuhause: Brauche hundeerfahrenes Zuhause, gerne Tierschutzhund Erfahrung. Braucht liebevolle, geduldige Menschen.
 - name: Rocky
   alter: ""
   größe: ""
@@ -259,6 +226,41 @@
   alter: 01/2023
   größe: klein bis mittelgroß
   geschlecht: Weiblich
-  charakter: noch scheu, ängstlich, skeptisch, braucht Zeit um Vertrauen zu fassen
+  charakter: noch scheu, ängstlich, skeptisch, braucht Zeit um Vertrauen zu fassen, neugierig, ruhig
   text_hund: Zara wurde aus der Tötung in Alexandria gerettet. Sie ist verträglich mit Artgenossen, aber Menschen gegenüber noch scheu und skeptisch. Sie braucht Zeit, um Vertrauen aufzubauen. Sie möchte vertrauen, aber hat viel schlechtes erlebt. Deshalb braucht sie endlich jemanden, der ihr zeigt, dass Menschen nicht nur böse sind und ein Hundeleben auch toll sein kann.
   text_zuhause: Zara braucht hundeerfahrene, geduldige Menschen, die sich sicher sind, dass sie Zeit und Nerven investieren wollen - denn auch Zara verdient es, zu lernen, dass Menschen nicht nur Böses wollen. Sie braucht jemanden, der an sie glaubt und ihr hilft, ein wundervolles Hundeleben führen zu können. Zara ist kein Anfängerhund.
+- name: Cooper
+  alter: 09/2020
+  größe: mittelgroß
+  geschlecht: Männlich
+  charakter: intelligent, noch skeptisch, neugierig, verträglich, lieb
+  text_hund: Lässt sich von Menschen anfassen, um medizinisch versorgt zu werden, braucht aber noch Zeit, um Vertrauen zu fassen. Zeigt keinerlei Aggressionen, zieht sich bei Aggressionen von anderen Hunden zurück. Ein sehr intelligenter, hübscher Rüde.
+  text_zuhause: Er benötigt Tierschutzhunde erfahrene Menschen, die Geduld in ihn investieren und mit ihm arbeiten. Menschen mit viel Liebe und Verständnis, dass bei seinem Schicksal, in einer der schlimmsten Tötungsstationen in Rumänien überleben zu müssen, er einfach seine Zeit benötigt. Da er sehr schnell versteht und lernt, wird es bei den richtigen, verständnisvollen Menschen wahrscheinlich schneller von statten gehen Vertrauen zu bilden, als man denkt.
+- name: Maggie
+  alter: 06/2021
+  größe: mittelgroß
+  geschlecht: Weiblich
+  charakter: noch scheu, lauffreudig, verträglich, lieb, intelligent
+  text_hund: Blüht im Auslauf auf, sehr freundlich gegenüber anderen Hunden. Vertrauen zu Menschen wird besser.
+  text_zuhause: Braucht Tierschutzhunde erfahrene Menschen, die ihr Zeit, Gedult und Liebe geben. Lässt sich aktuell (Aug. 25) noch nicht gerne anfassen.
+- name: Aurora
+  alter: 01/2022
+  größe: mittelgroß
+  geschlecht: Weiblich
+  charakter: aktiv, lauffreudig, menschenbezogen, verschmust, liebt das Wasser
+  text_hund: Ein verschmustes, menschenbezogenes, wunderschönes Energiebündel. Sie liebt Menschen und das Wasser und ist sehr freundlich.
+  text_zuhause: Aurora braucht ein aktives Zuhause, in dem sie viel Bewegung bekommt. Eine liebe, intelligente Hündin, die bei den richtigen Menschen aufblühen wird.
+- name: Kaya
+  alter: 06/2019
+  größe: mittelgroß
+  geschlecht: Weiblich
+  charakter: menschenbezogen, aktiv, schmusig, neugierig
+  text_hund: Kaya liebt den Auslauf und erkundet alles neugierig. Sie ist eine aktive, verschmuste Hündin.
+  text_zuhause: Kaya könnten wir uns auch in einer Familie vorstellen. Sie ist menschenbezogen und würde in einem liebevollen Zuhause aufblühen.
+- name: Milo
+  alter: ""
+  geschlecht: Männlich
+  größe: mittelgroß
+  charakter: neugierig, ruhig, verträglich, liebevoll
+  text_hund: Milo ist ein sanfter, liebevoller Rüde. Er wurde aus der Tötung Alexandria gerettet. Seine Umgebung erkundet er neugierig und ist aufgeschlossen.
+  text_zuhause: Milo braucht ein liebevolles Zuhause, in dem er endlich ankommen kann. Er ist ein toller Rüde, der einfach nur geliebt werden möchte.

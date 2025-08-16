@@ -5,3 +5,38 @@
   charakter: lieb, schmusig, liebevoll, schlau, neugierig
   text_hund: Kitty ist Susanne durch ihre seltsame Kopfhaltung in den Straßen Afumatis im Oktober 2024 aufgefallen. In der Klinik stellte man fest, dass Kitty durch Toxoplasmose schwere Nervenschäden im Gehirn erlitten hat. Das sah im CT aus wie ein durch Toxoplasmose ausgelöster Schlaganfall. Kitty bekam Medikamente und hochdosierten Vitamin B Komplex. Kitty hat mit Hunden keinerlei Probleme und auch mit Artgenossen nicht. Sie ist einfach anders, etwas grob und tollpatschig gegenüber Artgenossen, aber stets freundlich, ja sogar rücksichtsvoll. Sie hat eine unglaubliche Liebe zu geben, wirklich schlau und lern sehr schnell.Kitty ist empathisch und neugierig und auch schmusig.
   text_zuhause: Kitty braucht Menschen, die ihhr anders-sein nicht stört. Sie ist besonders auf ihre eigene Art und Weise, absolut stubenrein, kann alles wie jede andere Katze auch. Nur ihr Kopf ist etwas schief, durch den Schlaganfall. Wer öffnet sein Herz für diese wunderbare Katze, die auch nur geliebt werden möchte?
+- name: Ricky
+  alter: 03/2025
+  größe: klein
+  geschlecht: Männlich
+  charakter: verspielt, fürsorglich, aufgeschlossen, freundlich
+  text_hund: ""
+  text_zuhause: Gerne ein Zuhause mit bereits vorhandenen Katze(n).
+- name: Lisuka
+  alter: 07/2024
+  größe: klein
+  geschlecht: Weiblich
+  charakter: noch scheu, lieb, verträglich, fürsorglich
+  text_hund: ""
+  text_zuhause: Lisuka kann gerne anderen Katzen zusammen ziehen.
+- name: Oskar
+  alter: 07/2025
+  größe: klein
+  geschlecht: Männlich
+  charakter: verspielt, neugierig, süß, zutraulich
+  text_hund: ""
+  text_zuhause: Es wäre wunderbar, wenn Oskar mit seiner Schwester Emma in ein Zuhause ziehen könnte. Wir vermitteln Oskar nur in ein Zuhause mit einer anderen Katze.
+- name: Emma
+  alter: 07/2025
+  größe: klein
+  geschlecht: Weiblich
+  charakter: verspielt, neugierig, süß, zutraulich
+  text_hund: ""
+  text_zuhause: Es wäre wunderbar, wenn Emma mit ihrem Bruder Oskar in ein Zuhause ziehen könnte. Wir vermitteln Emma nur in ein Zuhause mit einer anderen Katze.
+- name: Frida
+  alter: 07/2025
+  größe: klein
+  geschlecht: Weiblich
+  charakter: aktiv, munter, selbstbewusst, neugierig, verspielt, verträglich mit Hunden
+  text_hund: Sie liebt es mit Bällen zu spielen.
+  text_zuhause: Wir vermitteln Frida bevorzugt in ein Zuhause mit einer anderen Katze.
