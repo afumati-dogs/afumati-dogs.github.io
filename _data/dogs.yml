@@ -136,14 +136,27 @@
   hunde_nummer: 781
   text_hund: 2021 haben wir Leo aus einem illegalen Shelter in Gheorghenie gerettet. Leo ist ein sehr sozialer, freundlicher Rüde, der immernoch sehr aktiv ist und topfit. Leo ist genügsam und gut mit anderen verträglich.
   text_zuhause: Leo ist ein simpler, und genügsamer Hund - Hundeerfahrung ist keine Voraussetzung, um den schönen Rüden zu adoptieren. Genauso können wir uns Leo auch mit Kindern vorstellen.
-- name: Willy
-  alter: 02/2018
-  größe: groß
-  geschlecht: Männlich
+- name: Kala
+  alter: 
+  größe: klein
+  geschlecht: Weiblic
   charakter: aktiv, neugierig, freundlich
-  hunde_nummer: 776
-  text_hund: Willy wurde 2021 aus einem illegalen Shelter gerettet. Er ist freundlich und gibt in seinem Zwinger den Ton an. Willy lebt mit Leo zusammen in einem Zwinger. Er ist aktiv und sozial. Mit seinem wunderschönen,langem, schokobraunen Fell sticht er einem direkt ins Auge. Anfangs ist Willy etwas schüchtern gegenüber Fremden, zeigt sich im Shelter aber sehr neugierig und selbstbewusst.
-  text_zuhause: Willy sollte in ein hundeerfahrenes Zuhause reisen, gern auch zu aktiven Senioren (super toll wäre da natürlich ei Garten, das ist aber kein Muss). Willy möchte gern gefordert und gefördert werden. Bei Rüden entscheidet die Sympathie, mit Hündinnen ist er gut verträglich.
+  hunde_nummer: 
+  text_hund: Kala, ein zartes Seelchen mit einem großen Herzchen auf der Suche nach einem liebevollen  Zuhause.
+Kala befindet sich auf einer Pflegestelle in
+96178 Pommersfelden . Dort kann sie sehr gerne besucht werden.
+Kala wird wie folgt von ihrer Pflegestelle beschrieben - Kala ist ein offenes freundliches liebes Mädel.
+Sie sucht die Nähe zum Menschen.
+Kala ist rundherum eine kleine anhängliche sehr verschmusste Maus.
+Mit den im Haushalt lebenden Hunden versteht sie sich wunderbar.
+Kala ist Welpen typisch verspielt und fordert, die anderen gerne zum spielen auf.
+Akzeptiert aber genauso gut ihre gesetzten Grenzen.
+Draußen zu sein ob im Garten oder auf Spaziergängen bereiten ihr große Freude.
+Vom ersten Tag an läuft Kala problemlos an der Leine. Altagsgeräusche bereiten ihr keine Probleme.
+Das Auto fahren klappt prima.
+Auch das Allein bleiben mit ihren Artgenossen ist kein Problem.
+Kala lernt sehr schnell und schaut sich viel von den erst Hunden ab.
+  text_zuhause: Für Kala wünschen wir uns eine ruhige liebe Familie gerne mit Kindern ab ca.6 Jahren die einen verantwortungsvollen und liebe vollen Umgang mit Tieren haben.
 - name: Jeff
   alter: 08/2015
   größe: mittel - groß
