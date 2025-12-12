@@ -95,7 +95,7 @@
   geschlecht: Weiblich
   charakter: aktiv, intelligent, aufgeschlossen, freundlich, menschenbezogen, lauffreudig
   hunde_nummer: 786
-  text_hund: Amari ist eine sehr sportliche, freundliche und aufgeschlossene Hündin. Sie wurde aus einem illegalen Shelter gerettet. Mit ihrem wunderschönen, weiß-grauen Fell und ihren Schlappöhrchen kann sie einem nur direkt ins Herz springen! - so, wie sie auch gern über niedrige Zäune springt. Amari hat viel Energie und würde sich bestimmt ganz toll als Begleitung beim Joggen machen.
+  text_hund: Amari befindet sich auf Pflegestelle und kann dort kennengelernt werden. Amari ist eine sehr sportliche, freundliche und aufgeschlossene Hündin. Sie wurde aus einem illegalen Shelter gerettet. Mit ihrem wunderschönen, weiß-grauen Fell und ihren Schlappöhrchen kann sie einem nur direkt ins Herz springen! - so, wie sie auch gern über niedrige Zäune springt. Amari hat viel Energie und würde sich bestimmt ganz toll als Begleitung beim Joggen machen.
   text_zuhause: Für Amari suchen wir eheer ein Zuhause als Einzelprinzessin. Wir würden uns sehr freuen, wenn Amari zu sportlichen, agilen Menschen ziehen dürfte. Hundeerfahrung wäre von Vorteil.
 - name: Laila
   alter: 12/2015
@@ -229,8 +229,8 @@ Kala lernt sehr schnell und schaut sich viel von den erst Hunden ab.
   text_hund: Felix ist noch schüchtern, aber neugierig. Er liebt den Auslauf und ist freudig aufgeregt, wenn man an seinen Kennel kommt.
   text_zuhause: Brauche hundeerfahrenes Zuhause, gerne Tierschutzhund Erfahrung. Braucht liebevolle, geduldige Menschen.
 - name: Rocky
-  alter: ""
-  größe: ""
+  alter: 01/2020
+  größe: mittelgroß
   geschlecht: Männlich
   charakter: aufgeschlossen, clever, freundlich, munter, neugierig, lieb
   text_hund: Rocky wurde aus der Tötung Alexandria gerettet. Wir nennen ihn liebevoll "Einstein", denn er ist ein sehr intelligentes, cleveres, aufgeschlossenes Kerlchen. Rocky braucht unbedingt ein Zuhause, in dem man sich richtig mit ihm beschäftigen kann. Er ist so lernwillig, freudig und zutraulich. Rocky möchte endlich gesehen werden!
@@ -277,10 +277,17 @@ Kala lernt sehr schnell und schaut sich viel von den erst Hunden ab.
   charakter: neugierig, ruhig, verträglich, liebevoll
   text_hund: Milo ist ein sanfter, liebevoller Rüde. Er wurde aus der Tötung Alexandria gerettet. Seine Umgebung erkundet er neugierig und ist aufgeschlossen.
   text_zuhause: Milo braucht ein liebevolles Zuhause, in dem er endlich ankommen kann. Er ist ein toller Rüde, der einfach nur geliebt werden möchte.
-- name: Luna
-  alter: 07/2022
+- name: Haiduc
+  alter: ""
+  größe: groß
+  geschlecht: Männlich
+  charakter: folgt
+  text_hund: folgt
+  text_zuhause: folgt
+- name: Maria
+  alter: 04/2019
   größe: mittelgroß
   geschlecht: Weiblich
-  charakter: sehr lieb, gegenüber Menschen noch scheu, ruhig, freundlich
-  text_hund: Luna lebte völlig verwahrlost und isoliert mit ihrer Schwester auf einem Fabrikkomplex. Leider ist ihre Schwester verstorben. Luna ist noch nicht sozialisiert, passt sich aber prima an und ist ruhig und freundlich zu ihren Zwingernachbarn. Lässt sich streicheln und spielt gerne. Gegenüber Fremden allerdings noch sehr scheu.
-  text_zuhause: hundeerfahrene Menschen, die Luna mit viel Liebe und Verständnis begegnen. Wir sehen Luna eher als Einzelprinzessin. Andere Hunde können ihr Angst machen. Gut erzogene Kinder ab sieben Jahren, die ihr auch Ruhe geben, können wir uns gut vorstellen.
+  charakter: lieb, charmant, verschmust, neugierig, aktiv
+  text_hund: Maria strahlt immer! Maria liebt Menschen! Maria ist einfach ein Sonnenschein und hat es so, so, so sehr verdient endlich in einem liebevollen Heim leben zu dürfen, aus dem Tierheim raus zu dürfen. Maria hat eine chronische Dermatitis, weshalb sie Spezialfutter (Trockenfutter) benötigt. Maria ist völlig unkompliziert, auch ihre Behandlung.
+  text_zuhause: Für Maria wünschen wir uns liebe Menschen, die einfach ihr Herz für diese tolle, unkomplizierte Hundedame öffnen. Maria ist lauffreudig und freundlich und sehr menschenbezogen. 
