@@ -277,8 +277,16 @@
   text_hund: Maria strahlt immer! Maria liebt Menschen! Maria ist einfach ein Sonnenschein und hat es so, so, so sehr verdient endlich in einem liebevollen Heim leben zu dürfen, aus dem Tierheim raus zu dürfen. Maria hat eine chronische Dermatitis, weshalb sie Spezialfutter (Trockenfutter) benötigt. Maria ist völlig unkompliziert, auch ihre Behandlung.
   text_zuhause: Für Maria wünschen wir uns liebe Menschen, die einfach ihr Herz für diese tolle, unkomplizierte Hundedame öffnen. Maria ist lauffreudig und freundlich und sehr menschenbezogen. 
 - name: Emma
+  alter: 08/2025
   größe: klein
   geschlecht: Weiblich
   charakter: Welpentypisch verspielt, aufgeschlossen, freundlich
-  text_hund: folgt
-  text_zuhause: folgt
+  text_hund: Katzengewohnt, verträglich mit Hunden jedem Alters und fast stubenrein.
+  text_zuhause: Wird nur gemeinsam mit SAMMY vermittelt.
+- name: Sammy
+  alter: 08/2025
+  größe: klein
+  geschlecht: Männlich
+  charakter: Welpentypisch verspielt, aufgeschlossen, freundlich
+  text_hund: Katzengewohnt, verträglich mit Hunden jedem Alters und fast stubenrein.
+  text_zuhause: Wird nur gemeinsam mit EMMA vermittelt.
