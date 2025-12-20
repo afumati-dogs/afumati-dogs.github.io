@@ -290,3 +290,10 @@
   charakter: Welpentypisch verspielt, aufgeschlossen, freundlich
   text_hund: Katzengewohnt, verträglich mit Hunden jedem Alters und fast stubenrein.
   text_zuhause: Wird nur gemeinsam mit EMMA vermittelt.
+- name: Pedro
+  alter: 08/2024
+  größe: Mittelgroß
+  geschlecht: Männlich
+  charakter: Lieb, Freudig, Menschenbezogen, verschmust
+  text_hund: Streunte verängstigt ums Tierheim und wartet jetzt freudig auf sein Für-immer-zuhause.
+  text_zuhause: Pedro ist ein toller Hund und will nur gefallen.
