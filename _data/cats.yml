@@ -39,30 +39,30 @@
   geschlecht: Weiblich
   charakter: aktiv, munter, selbstbewusst, neugierig, verspielt, verträglich mit Hunden
   text_hund: Sie liebt es mit Bällen zu spielen.
-  text_zuhause: Wir vermitteln Frida bevorzugt in ein Zuhause mit einer anderen Katze.
+  text_zuhause: Wir vermitteln Frida bevorzugt in ein Zuhause mit einer anderen Katze. Gerne vermitteln wir sie mit einem unserer anderen Schützlinge zusammen.
 - name: Ina
-  alter: 07/2025
+  alter: 08/2025
   größe: klein
   geschlecht: Weiblich
-  charakter: verspielt, neugierig, süß, zutraulich
-  text_hund: ""
-  text_zuhause: ""
+  charakter: clever, verspielt, aktiv
+  text_hund: Hunde und andere Katzen gewöhnt. Freundlich, neugierig und immer aufgeschlossen.
+  text_zuhause: Ina sollte nicht als Einzelkatze gehalten werden. Sie freut sich über Gesellschaft. Gerne vermitteln wir sie mit einem unserer anderen Schützlinge zusammen oder in ein Zuhause in dem bereits mindestens eine Katze lebt.
 - name: Fee
   alter: 07/2025
   größe: klein
   geschlecht: Weiblich
-  charakter: verspielt, neugierig, süß, zutraulich
-  text_hund: Mama von Steffi und Mo.
-  text_zuhause: ""
+  charakter: lieb, süß, zutraulich, fürsorglich
+  text_hund: Mama von Steffi und Mo. Fee ist eine ehemalige Straßenkatze, die Susanne immer gefüttert hat. Fee ist zutraulig und hat in der Winterkälte Rumäniens ihre Kitten auf die Welt gebracht. Nun ist sie bei Susanne in Sicherheit und wartet auf ihr Für-immer-Zuhause.
+  text_zuhause: Fee sollte nicht als Einzelkatze gehalten werden. Sie freut sich über Gesellschaft. Gerne vermitteln wir sie mit einem unserer anderen Schützlinge zusammen oder in ein Zuhause in dem bereits mindestens eine Katze lebt.
 - name: Mo
-  alter: 07/2025
+  alter: 11/2025
   größe: klein
   geschlecht: Weiblich
   charakter: verspielt, neugierig, süß, zutraulich
   text_hund: Mo und Steffi sind Kitten von Fee.
   text_zuhause: Mo sollte am besten mit ihrer Schwester Steffi in ein neues Zuhause ziehen.
 - name: Steffi
-  alter: 07/2025
+  alter: 11/2025
   größe: klein
   geschlecht: Weiblich
   charakter: verspielt, neugierig, süß, zutraulich
