@@ -40,3 +40,31 @@
   charakter: aktiv, munter, selbstbewusst, neugierig, verspielt, verträglich mit Hunden
   text_hund: Sie liebt es mit Bällen zu spielen.
   text_zuhause: Wir vermitteln Frida bevorzugt in ein Zuhause mit einer anderen Katze.
+- name: Ina
+  alter: 07/2025
+  größe: klein
+  geschlecht: Weiblich
+  charakter: verspielt, neugierig, süß, zutraulich
+  text_hund: ""
+  text_zuhause: ""
+- name: Fee
+  alter: 07/2025
+  größe: klein
+  geschlecht: Weiblich
+  charakter: verspielt, neugierig, süß, zutraulich
+  text_hund: ""
+  text_zuhause: ""
+- name: Mo
+  alter: 07/2025
+  größe: klein
+  geschlecht: Weiblich
+  charakter: verspielt, neugierig, süß, zutraulich
+  text_hund: Mo und Steffi sind Kitten von Fee.
+  text_zuhause: Mo sollte am besten mit ihrer Schwester Steffi in ein neues Zuhause ziehen.
+- name: Steffi
+  alter: 07/2025
+  größe: klein
+  geschlecht: Weiblich
+  charakter: verspielt, neugierig, süß, zutraulich
+  text_hund: Mo und Steffi sind Kitten von Fee.
+  text_zuhause: Steffi sollte am besten mit ihrer Schwester Mo in ein neues Zuhause ziehen.
