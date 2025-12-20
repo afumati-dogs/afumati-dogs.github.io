@@ -258,14 +258,12 @@
   text_hund: Kaya liebt den Auslauf und erkundet alles neugierig. Sie ist eine aktive, verschmuste Hündin.
   text_zuhause: Kaya könnten wir uns auch in einer Familie vorstellen. Sie ist menschenbezogen und würde in einem liebevollen Zuhause aufblühen.
 - name: Milo
-  alter: ""
   geschlecht: Männlich
   größe: mittelgroß
   charakter: neugierig, ruhig, verträglich, liebevoll
   text_hund: Milo ist ein sanfter, liebevoller Rüde. Er wurde aus der Tötung Alexandria gerettet. Seine Umgebung erkundet er neugierig und ist aufgeschlossen.
   text_zuhause: Milo braucht ein liebevolles Zuhause, in dem er endlich ankommen kann. Er ist ein toller Rüde, der einfach nur geliebt werden möchte.
 - name: Haiduc
-  alter: ""
   größe: groß
   geschlecht: Männlich
   charakter: folgt
@@ -278,3 +276,9 @@
   charakter: lieb, charmant, verschmust, neugierig, aktiv
   text_hund: Maria strahlt immer! Maria liebt Menschen! Maria ist einfach ein Sonnenschein und hat es so, so, so sehr verdient endlich in einem liebevollen Heim leben zu dürfen, aus dem Tierheim raus zu dürfen. Maria hat eine chronische Dermatitis, weshalb sie Spezialfutter (Trockenfutter) benötigt. Maria ist völlig unkompliziert, auch ihre Behandlung.
   text_zuhause: Für Maria wünschen wir uns liebe Menschen, die einfach ihr Herz für diese tolle, unkomplizierte Hundedame öffnen. Maria ist lauffreudig und freundlich und sehr menschenbezogen. 
+- name: Emma
+  größe: klein
+  geschlecht: Weiblich
+  charakter: Welpentypisch verspielt, aufgeschlossen, freundlich
+  text_hund: folgt
+  text_zuhause: folgt
