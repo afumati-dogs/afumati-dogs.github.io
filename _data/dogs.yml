@@ -139,23 +139,10 @@
 - name: Kala
   alter: 07/2025
   größe: klein
-  geschlecht: Weiblic
+  geschlecht: Weiblich
   charakter: aktiv, neugierig, freundlich
   hunde_nummer: 
-  text_hund: Kala, ein zartes Seelchen mit einem großen Herzchen auf der Suche nach einem liebevollen  Zuhause.
-Kala befindet sich auf einer Pflegestelle in
-96178 Pommersfelden . Dort kann sie sehr gerne besucht werden.
-Kala wird wie folgt von ihrer Pflegestelle beschrieben - Kala ist ein offenes freundliches liebes Mädel.
-Sie sucht die Nähe zum Menschen.
-Kala ist rundherum eine kleine anhängliche sehr verschmusste Maus.
-Mit den im Haushalt lebenden Hunden versteht sie sich wunderbar.
-Kala ist Welpen typisch verspielt und fordert, die anderen gerne zum spielen auf.
-Akzeptiert aber genauso gut ihre gesetzten Grenzen.
-Draußen zu sein ob im Garten oder auf Spaziergängen bereiten ihr große Freude.
-Vom ersten Tag an läuft Kala problemlos an der Leine. Altagsgeräusche bereiten ihr keine Probleme.
-Das Auto fahren klappt prima.
-Auch das Allein bleiben mit ihren Artgenossen ist kein Problem.
-Kala lernt sehr schnell und schaut sich viel von den erst Hunden ab.
+  text_hund: Kala, ein zartes Seelchen mit einem großen Herzchen auf der Suche nach einem liebevollen  Zuhause. Kala befindet sich auf einer Pflegestelle in 96178 Pommersfelden . Dort kann sie sehr gerne besucht werden. Kala wird wie folgt von ihrer Pflegestelle beschrieben - Kala ist ein offenes freundliches liebes Mädel. Sie sucht die Nähe zum Menschen. Kala ist rundherum eine kleine anhängliche sehr verschmusste Maus. Mit den im Haushalt lebenden Hunden versteht sie sich wunderbar. Kala ist Welpen typisch verspielt und fordert, die anderen gerne zum spielen auf. Akzeptiert aber genauso gut ihre gesetzten Grenzen. Draußen zu sein ob im Garten oder auf Spaziergängen bereiten ihr große Freude. Vom ersten Tag an läuft Kala problemlos an der Leine. Altagsgeräusche bereiten ihr keine Probleme. Das Auto fahren klappt prima. Auch das Allein bleiben mit ihren Artgenossen ist kein Problem. Kala lernt sehr schnell und schaut sich viel von den erst Hunden ab.
   text_zuhause: Für Kala wünschen wir uns eine ruhige liebe Familie gerne mit Kindern ab ca.6 Jahren die einen verantwortungsvollen und liebe vollen Umgang mit Tieren haben.
 - name: Jeff
   alter: 08/2015
