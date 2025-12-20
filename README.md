@@ -49,7 +49,7 @@ Dann auf `Add File` klicken und im Dropdown `Create new File` auswählen:
 ![Data](./readme-images/add_file_to_dogs.png)
 Es öffnet sich der Fileeditor mit dem Feld zum Eingeben eines Filenamens:
 ![Data](./readme-images/update_name.png)
-In diesem Feld erst den TierTyp also dogs oder cats eingeben und anschließend einen `/` tippen; Dadurch wird ein Ordner erstellt. Als nächstes den Tiernamen eingeben und anschließend einen /`; dann als Name des Files: `.gitkeep`angeben. Das Ganze sieht dann so aus:
+In diesem Feld erst den TierTyp also dogs oder cats eingeben und anschließend einen `/` tippen; Dadurch wird ein Ordner erstellt. Als nächstes den Tiernamen eingeben und anschließend einen `/`; dann als Name des Files: `.gitkeep`angeben. Das Ganze sieht dann so aus:
 ![Data](./readme-images/create_dog_folder.png)
 Auf`Commit Changes`klicken und den Dialog bestätigen:
 ![Dogs](./readme-images/commit_dialog.png)
