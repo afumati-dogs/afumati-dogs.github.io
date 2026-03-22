@@ -89,14 +89,6 @@
   hunde_nummer: 741
   text_hund: Buddy kommt aus einem illegalen Shelter in Gheorghenie. Er ist noch sehr ängstlich und misstrauisch, aber nicht aggressiv. Er hat einfach zu viel schlechtes erlebt, was bei ihm zu einer gewissen Skepsis gegenüber Menschen und Neuem geführt hat. Buddy wird immer wieder übersehen, dabei ist er ein wunderschöner, lieber Rüde.
   text_zuhause: Für Buddy suchen wir Menschen mit Hundeerfahrung, bevorzugt sogar mit Erfahrung mit ängstlichen Hunden. Buddy braucht geduldige Menschen, die ihn verstehen und ihm seine Skepsis nicht übel nehmen. Er sucht nach Menschen, die ihn endlich sehen und ihm die Chance schenken, richtig aufzublühen - und dass es noch ganz viel tolles da draußen gibt.
-- name: Amari
-  alter: 08/2018
-  größe: mittel - groß
-  geschlecht: Weiblich
-  charakter: aktiv, intelligent, aufgeschlossen, freundlich, menschenbezogen, lauffreudig
-  hunde_nummer: 786
-  text_hund: Amari befindet sich auf Pflegestelle und kann dort kennengelernt werden. Amari ist eine sehr sportliche, freundliche und aufgeschlossene Hündin. Sie wurde aus einem illegalen Shelter gerettet. Mit ihrem wunderschönen, weiß-grauen Fell und ihren Schlappöhrchen kann sie einem nur direkt ins Herz springen! - so, wie sie auch gern über niedrige Zäune springt. Amari hat viel Energie und würde sich bestimmt ganz toll als Begleitung beim Joggen machen.
-  text_zuhause: Für Amari suchen wir eheer ein Zuhause als Einzelprinzessin. Wir würden uns sehr freuen, wenn Amari zu sportlichen, agilen Menschen ziehen dürfte. Hundeerfahrung wäre von Vorteil.
 - name: Laila
   alter: 12/2015
   größe: mittelgroß
@@ -110,7 +102,7 @@
   geschlecht: Weiblich
   charakter: ruhig, sanft, ängstlich, schüchtern
   hunde_nummer: 787
-  text_hund: Rosi wurde aus einem illegalen Shelter in Gheorghenie gerettet. Seit ihrer rettung im Jahr 2021 wartet sie nun im Tierheim auf ihre Menschen. Sie ist eine liebenswerte, schüchterne Hündin, die sich nicht vordrängt und lieber das Geschene aus einer gewissen Entfernung beobachtet. Sie braucht viel Zeit, um Vertrauen zu fassen - zu oft wurde sie von Menschen verstoßen.
+  text_hund: Rosi befindet sich bereits auf Pflegestelle in Deutschland. Sie geht schon super an der Leine und lernt sich ihren Ängsten zu stellen. Rosi wurde aus einem illegalen Shelter in Gheorghenie gerettet. Seit ihrer rettung im Jahr 2021 wartet sie nun im Tierheim auf ihre Menschen. Sie ist eine liebenswerte, schüchterne Hündin, die sich nicht vordrängt und lieber das Geschene aus einer gewissen Entfernung beobachtet. Sie braucht viel Zeit, um Vertrauen zu fassen - zu oft wurde sie von Menschen verstoßen.
   text_zuhause: Für Rosi suchen wir eine Familie oder Einzelperson, die ihr so viel Zeit gibt, wie nötig - geduldige, empathische Menschen sind essentiell für Rosi. Sie wird ängstlich auf verschiedene Alltagssituationen reagieren und braucht jemanden, der sie dabei geduldig und liebevoll begleitet und ihr zeigt, wie schön ein Hundeleben in Sicherheit sein kann.
 - name: Mathilda
   alter: 08/2018
@@ -134,7 +126,7 @@
   geschlecht: Männlich
   charakter: aktiv, intelligent, genügsam, sozial, freundlich
   hunde_nummer: 781
-  text_hund: 2021 haben wir Leo aus einem illegalen Shelter in Gheorghenie gerettet. Leo ist ein sehr sozialer, freundlicher Rüde, der immernoch sehr aktiv ist und topfit. Leo ist genügsam und gut mit anderen verträglich.
+  text_hund: Leo befindet sich bereits auf Pfelgestelle in Deutschland. Er ist sehr aufgeschlossen gegenüber anderen Hunden und läuft schon gut an der Leine. Er macht sich hervorragend auf seiner Pflegestelle und wartet nun hoffnungsvoll auf sein Für-Immer-Zuhause. Zu ihm: 2021 haben wir Leo aus einem illegalen Shelter in Gheorghenie gerettet. Leo ist ein sehr sozialer, freundlicher Rüde, der immernoch sehr aktiv ist und topfit. Leo ist genügsam und gut mit anderen verträglich.
   text_zuhause: Leo ist ein simpler, und genügsamer Hund - Hundeerfahrung ist keine Voraussetzung, um den schönen Rüden zu adoptieren. Genauso können wir uns Leo auch mit Kindern vorstellen.
 - name: Kala
   alter: 07/2025
