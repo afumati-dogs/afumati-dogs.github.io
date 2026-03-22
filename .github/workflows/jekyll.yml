@@ -17,12 +17,16 @@ concurrency:
 jobs:
   fix-yaml:
     runs-on: ubuntu-latest
+    outputs:
+      changes: ${{ steps.fix.outputs.changes }}
     steps:
       - name: Checkout Repository
         uses: actions/checkout@v4.1.1
 
       - name: Fix YAML issues
+        id: fix
         run: |
+          CHANGES=false
           for file in _data/cats.yml _data/dogs.yml; do
             if [ -f "$file" ]; then
               # Fix unquoted strings with colons
@@ -33,19 +37,20 @@ jobs:
               
               # Fix duplicate list markers
               sed -i '/^- - /s/^- - /- /' "$file"
+              
+              if [ -n "$(git diff $file)" ]; then
+                CHANGES=true
+              fi
             fi
           done
+          echo "changes=$CHANGES" >> $GITHUB_OUTPUT
 
-      - name: Commit and push fixes if needed
-        run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          
-          if [ -n "$(git status --porcelain)" ]; then
-            git add _data/*.yml
-            git commit -m "fix: auto-correct YAML syntax issues"
-            git push
-          fi
+      - name: Upload fixed YAML files
+        uses: actions/upload-artifact@v3
+        with:
+          name: fixed-yaml
+          path: _data/*.yml
+          retention-days: 1
 
   validate:
     runs-on: ubuntu-latest
@@ -53,6 +58,12 @@ jobs:
     steps:
       - name: Checkout Repository
         uses: actions/checkout@v4.1.1
+
+      - name: Download fixed YAML files
+        uses: actions/download-artifact@v3
+        with:
+          name: fixed-yaml
+          path: _data
 
       - name: Validate YAML Syntax
         run: |
@@ -79,6 +90,12 @@ jobs:
       - name: Checkout Repository
         uses: actions/checkout@v4.1.1
 
+      - name: Download fixed YAML files
+        uses: actions/download-artifact@v3
+        with:
+          name: fixed-yaml
+          path: _data
+
       - name: Setup Ruby
         uses: ruby/setup-ruby@v1
         with:
@@ -99,7 +116,28 @@ jobs:
         with:
           path: _site
 
+      - name: Create Pull Request with YAML fixes
+        if: steps.fix.outputs.changes == 'true'
+        uses: peter-evans/create-pull-request@v5
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          commit-message: 'fix: auto-correct YAML syntax issues'
+          title: 'fix: auto-correct YAML syntax issues'
+          body: |
+            Automated fix for YAML syntax errors detected during build.
+            
+            **Changes made:**
+            - Fixed unquoted strings containing colons in text fields
+            - Removed trailing whitespace
+            - Corrected list item formatting
+            
+            Please review and merge if the changes look correct.
+          branch: fix/yaml-syntax
+          delete-branch: true
+          labels: automated
+
   deploy:
+    if: needs.fix-yaml.outputs.changes != 'true'
     environment:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
