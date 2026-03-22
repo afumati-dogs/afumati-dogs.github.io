@@ -38,6 +38,9 @@ jobs:
               # Fix duplicate list markers
               sed -i '/^- - /s/^- - /- /' "$file"
               
+              # Fix indentation errors (any key with more than 2 leading spaces should have exactly 2)
+              sed -i 's/^   \+\([a-z_][a-z_]*:\)/  \1/g' "$file"
+              
               if [ -n "$(git diff $file)" ]; then
                 CHANGES=true
               fi
