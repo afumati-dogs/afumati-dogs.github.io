@@ -242,13 +242,6 @@
   charakter: aktiv, lauffreudig, menschenbezogen, verschmust, liebt das Wasser
   text_hund: Ein verschmustes, menschenbezogenes, wunderschönes Energiebündel. Sie liebt Menschen und das Wasser und ist sehr freundlich.
   text_zuhause: Aurora braucht ein aktives Zuhause, in dem sie viel Bewegung bekommt. Eine liebe, intelligente Hündin, die bei den richtigen Menschen aufblühen wird.
-- name: Kaya
-  alter: 06/2019
-  größe: mittelgroß
-  geschlecht: Weiblich
-  charakter: menschenbezogen, aktiv, schmusig, neugierig
-  text_hund: Kaya liebt den Auslauf und erkundet alles neugierig. Sie ist eine aktive, verschmuste Hündin.
-  text_zuhause: Kaya könnten wir uns auch in einer Familie vorstellen. Sie ist menschenbezogen und würde in einem liebevollen Zuhause aufblühen.
 - name: Milo
   geschlecht: Männlich
   größe: mittelgroß
@@ -268,24 +261,3 @@
   charakter: lieb, charmant, verschmust, neugierig, aktiv
   text_hund: Maria strahlt immer! Maria liebt Menschen! Maria ist einfach ein Sonnenschein und hat es so, so, so sehr verdient endlich in einem liebevollen Heim leben zu dürfen, aus dem Tierheim raus zu dürfen. Maria hat eine chronische Dermatitis, weshalb sie Spezialfutter (Trockenfutter) benötigt. Maria ist völlig unkompliziert, auch ihre Behandlung.
   text_zuhause: Für Maria wünschen wir uns liebe Menschen, die einfach ihr Herz für diese tolle, unkomplizierte Hundedame öffnen. Maria ist lauffreudig und freundlich und sehr menschenbezogen.
-- name: Emma
-  alter: 08/2025
-  größe: klein
-  geschlecht: Weiblich
-  charakter: Welpentypisch verspielt, aufgeschlossen, freundlich
-  text_hund: Katzengewohnt, verträglich mit Hunden jedem Alters und fast stubenrein.
-  text_zuhause: Wird nur gemeinsam mit SAMMY vermittelt.
-- name: Sammy
-  alter: 08/2025
-  größe: klein
-  geschlecht: Männlich
-  charakter: Welpentypisch verspielt, aufgeschlossen, freundlich
-  text_hund: Katzengewohnt, verträglich mit Hunden jedem Alters und fast stubenrein.
-  text_zuhause: Wird nur gemeinsam mit EMMA vermittelt.
-- name: Pedro
-  alter: 08/2024
-  größe: Mittelgroß
-  geschlecht: Männlich
-  charakter: Lieb, Freudig, Menschenbezogen, verschmust
-  text_hund: Streunte verängstigt ums Tierheim und wartet jetzt freudig auf sein Für-immer-zuhause.
-  text_zuhause: Pedro ist ein toller Hund und will nur gefallen.
