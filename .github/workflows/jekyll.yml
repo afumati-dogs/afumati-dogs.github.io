@@ -83,6 +83,23 @@ jobs:
           done
           echo "changes=$CHANGES" >> $GITHUB_OUTPUT
 
+      - name: Spell check YAML files (informational)
+        continue-on-error: true
+        run: |
+          # Install spell checker
+          apt-get update -qq && apt-get install -y -qq aspell aspell-de > /dev/null 2>&1
+          
+          for file in _data/cats.yml _data/dogs.yml; do
+            if [ -f "$file" ]; then
+              echo "=== Spell check for $file ==="
+              # Extract text values and check for spelling
+              grep -E "text_hund|text_zuhause|charakter:" "$file" | \
+                sed 's/.*: //' | \
+                aspell -d de -p /dev/null list | \
+                sort | uniq || true
+            fi
+          done
+
       - name: Upload fixed YAML files
         uses: actions/upload-artifact@v4
         with:
