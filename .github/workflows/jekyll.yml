@@ -38,8 +38,43 @@ jobs:
               # Fix duplicate list markers
               sed -i '/^- - /s/^- - /- /' "$file"
               
+              # Fix list markers with wrong indentation (3+ spaces before -)
+              sed -i 's/^   \+\(-\s\)/\1/g' "$file"
+              
+              # Fix list markers with missing or multiple spaces after dash
+              sed -i 's/^-\([^ ]\)/- \1/g' "$file"
+              sed -i 's/^-  \+/- /g' "$file"
+              
               # Fix indentation errors (any key with more than 2 leading spaces should have exactly 2)
               sed -i 's/^   \+\([a-z_][a-z_]*:\)/  \1/g' "$file"
+              
+              # Fix missing space after colon
+              sed -i 's/:\([^ ]\)/: \1/g' "$file"
+              
+              # Fix indentation with 1 space or 3+ spaces
+              sed -i 's/^\( \{1\}\)\([^ ]\)/  \2/g' "$file"
+              sed -i 's/^\( \{3,\}\)\([^ ]\)/  \2/g' "$file"
+              
+              # Fix common typos in keys (based on schema: name, größe, geschlecht, charakter, text_hund, text_zuhause, alter, hunde_nummer, notfall)
+              sed -i 's/^  groeße:/  größe:/g' "$file"
+              sed -i 's/^  grosse:/  größe:/g' "$file"
+              sed -i 's/^  charackter:/  charakter:/g' "$file"
+              sed -i 's/^  characktur:/  charakter:/g' "$file"
+              sed -i 's/^  charakter:/  charakter:/g' "$file"
+              sed -i 's/^  text_hund_:/  text_hund:/g' "$file"
+              sed -i 's/^  text_zuhause_:/  text_zuhause:/g' "$file"
+              sed -i 's/^  hunde_nummer:/  hunde_nummer:/g' "$file"
+              # Fix common typos in values (geschlecht)
+              sed -i 's/geschlecht: maennlich/geschlecht: Männlich/g' "$file"
+              sed -i 's/geschlecht: männlich/geschlecht: Männlich/g' "$file"
+              sed -i 's/geschlecht: Maennlich/geschlecht: Männlich/g' "$file"
+              sed -i 's/geschlecht: maennlich/geschlecht: Männlich/g' "$file"
+              sed -i 's/geschlecht: weiblich/geschlecht: Weiblich/g' "$file"
+              sed -i 's/geschlecht: Weiblich/geschlecht: Weiblich/g' "$file"
+              sed -i 's/geschlecht: MÄNNLICH/geschlecht: Männlich/g' "$file"
+              sed -i 's/geschlecht: WEIBLICH/geschlecht: Weiblich/g' "$file"
+              sed -i 's/geschlecht: Rüde/geschlecht: Männlich/g' "$file"
+              sed -i 's/geschlecht: Hündin/geschlecht: Weiblich/g' "$file"
               
               if [ -n "$(git diff $file)" ]; then
                 CHANGES=true
