@@ -126,14 +126,14 @@
   geschlecht: Männlich
   charakter: aktiv, intelligent, genügsam, sozial, freundlich
   hunde_nummer: 781
-  text_hund: Leo befindet sich bereits auf Pfelgestelle in Deutschland. Er ist sehr aufgeschlossen gegenüber anderen Hunden und läuft schon gut an der Leine. Er macht sich hervorragend auf seiner Pflegestelle und wartet nun hoffnungsvoll auf sein Für-Immer-Zuhause. Zu ihm: 2021 haben wir Leo aus einem illegalen Shelter in Gheorghenie gerettet. Leo ist ein sehr sozialer, freundlicher Rüde, der immernoch sehr aktiv ist und topfit. Leo ist genügsam und gut mit anderen verträglich.
+  text_hund: "Leo befindet sich bereits auf Pfelgestelle in Deutschland. Er ist sehr aufgeschlossen gegenüber anderen Hunden und läuft schon gut an der Leine. Er macht sich hervorragend auf seiner Pflegestelle und wartet nun hoffnungsvoll auf sein Für-Immer-Zuhause. Zu ihm: 2021 haben wir Leo aus einem illegalen Shelter in Gheorghenie gerettet. Leo ist ein sehr sozialer, freundlicher Rüde, der immernoch sehr aktiv ist und topfit. Leo ist genügsam und gut mit anderen verträglich."
   text_zuhause: Leo ist ein simpler, und genügsamer Hund - Hundeerfahrung ist keine Voraussetzung, um den schönen Rüden zu adoptieren. Genauso können wir uns Leo auch mit Kindern vorstellen.
 - name: Kala
   alter: 07/2025
   größe: klein
   geschlecht: Weiblich
   charakter: aktiv, neugierig, freundlich
-  hunde_nummer: 
+  hunde_nummer:
   text_hund: Kala, ein zartes Seelchen mit einem großen Herzchen auf der Suche nach einem liebevollen  Zuhause. Kala befindet sich auf einer Pflegestelle in 96178 Pommersfelden . Dort kann sie sehr gerne besucht werden. Kala wird wie folgt von ihrer Pflegestelle beschrieben - Kala ist ein offenes freundliches liebes Mädel. Sie sucht die Nähe zum Menschen. Kala ist rundherum eine kleine anhängliche sehr verschmusste Maus. Mit den im Haushalt lebenden Hunden versteht sie sich wunderbar. Kala ist Welpen typisch verspielt und fordert, die anderen gerne zum spielen auf. Akzeptiert aber genauso gut ihre gesetzten Grenzen. Draußen zu sein ob im Garten oder auf Spaziergängen bereiten ihr große Freude. Vom ersten Tag an läuft Kala problemlos an der Leine. Altagsgeräusche bereiten ihr keine Probleme. Das Auto fahren klappt prima. Auch das Allein bleiben mit ihren Artgenossen ist kein Problem. Kala lernt sehr schnell und schaut sich viel von den erst Hunden ab.
   text_zuhause: Für Kala wünschen wir uns eine ruhige liebe Familie gerne mit Kindern ab ca.6 Jahren die einen verantwortungsvollen und liebe vollen Umgang mit Tieren haben.
 - name: Jeff
@@ -267,7 +267,7 @@
   geschlecht: Weiblich
   charakter: lieb, charmant, verschmust, neugierig, aktiv
   text_hund: Maria strahlt immer! Maria liebt Menschen! Maria ist einfach ein Sonnenschein und hat es so, so, so sehr verdient endlich in einem liebevollen Heim leben zu dürfen, aus dem Tierheim raus zu dürfen. Maria hat eine chronische Dermatitis, weshalb sie Spezialfutter (Trockenfutter) benötigt. Maria ist völlig unkompliziert, auch ihre Behandlung.
-  text_zuhause: Für Maria wünschen wir uns liebe Menschen, die einfach ihr Herz für diese tolle, unkomplizierte Hundedame öffnen. Maria ist lauffreudig und freundlich und sehr menschenbezogen. 
+  text_zuhause: Für Maria wünschen wir uns liebe Menschen, die einfach ihr Herz für diese tolle, unkomplizierte Hundedame öffnen. Maria ist lauffreudig und freundlich und sehr menschenbezogen.
 - name: Emma
   alter: 08/2025
   größe: klein
