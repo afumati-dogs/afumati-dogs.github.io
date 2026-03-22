@@ -46,7 +46,7 @@ jobs:
           echo "changes=$CHANGES" >> $GITHUB_OUTPUT
 
       - name: Upload fixed YAML files
-        uses: actions/upload-artifact@v3
+        uses: actions/upload-artifact@v4
         with:
           name: fixed-yaml
           path: _data/*.yml
@@ -91,7 +91,7 @@ jobs:
         uses: actions/checkout@v4.1.1
 
       - name: Download fixed YAML files
-        uses: actions/download-artifact@v3
+        uses: actions/download-artifact@v4
         with:
           name: fixed-yaml
           path: _data
@@ -112,7 +112,7 @@ jobs:
         run: bundle exec jekyll build
 
       - name: Upload artifact
-        uses: actions/upload-pages-artifact@v3
+        uses: actions/upload-pages-artifact@v4
         with:
           path: _site
 
