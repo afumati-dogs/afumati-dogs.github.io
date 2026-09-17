@@ -65,14 +65,6 @@
   hunde_nummer: 808
   text_hund: Masha lebt mit Curry zusammen in einem Zwinger, dabei ist sie deutlich diejenige, die den Ton angibt. Masha braucht Zeit, um Vertrauen zu fassen und ist zurückhaltend und vorsichtig.
   text_zuhause: Für Masha suchen wir geduldige Menschen, die ihr ausreichend Zeit geben, um Vertrauen zu fassen. Hundeerfahrung wäre von Vorteil. Bei Artgenossen entscheidet die Sympathie.
-- name: Franka
-  alter: 04/2016
-  größe: mittel
-  geschlecht: Weiblich
-  charakter: sanft, verschmust, lieb, ruhig
-  hunde_nummer: 708
-  text_hund: Franka ist eine sanfte, freundliche und sehr verschmuste Hundedame. Sie ist topfit und gesund, und immer mit Nassfutter bestechlich (sagt ihr nicht, dass ich euch das verraten habe). Franka liebt schmusen, den Auslauf, und ist neugierig und stets aufgeschlossen. Franka wurde aus der Tötung gerettet.
-  text_zuhause: Franka muss nicht in ein Zuhause mit Hundeerfahrung reisen. Wir sehen sie eher als Einzelprinzessin, da bei ihr die Sympathie entscheidet. Franka ist eine ganz liebe Hündin, die nur darauf wartet, endlich gesehen zu werden!
 - name: Luca
   alter: 06/2019
   größe: mittel - groß
@@ -89,21 +81,6 @@
   hunde_nummer: 741
   text_hund: Buddy kommt aus einem illegalen Shelter in Gheorghenie. Er ist noch sehr ängstlich und misstrauisch, aber nicht aggressiv. Er hat einfach zu viel schlechtes erlebt, was bei ihm zu einer gewissen Skepsis gegenüber Menschen und Neuem geführt hat. Buddy wird immer wieder übersehen, dabei ist er ein wunderschöner, lieber Rüde.
   text_zuhause: Für Buddy suchen wir Menschen mit Hundeerfahrung, bevorzugt sogar mit Erfahrung mit ängstlichen Hunden. Buddy braucht geduldige Menschen, die ihn verstehen und ihm seine Skepsis nicht übel nehmen. Er sucht nach Menschen, die ihn endlich sehen und ihm die Chance schenken, richtig aufzublühen - und dass es noch ganz viel tolles da draußen gibt.
-- name: Laila
-  alter: 12/2015
-  größe: mittelgroß
-  geschlecht: Weiblich
-  charakter: charmant, intelligent, sehr verschmust, aufgeschlossen, menschenbezogen, liebevoll, sehr sozial, genügsam, gut umgänglich
-  text_hund: Laila ist einfach ein aboluter Goldschatz - unser Oberschmusi, unheimlich charmant, hat so viel Liebe zu geben, versteht sich hervorragend mit jedem, leicht umgänglich. Laila strahlt nur so vor Lebensfreude und Dankbarkeit.
-  text_zuhause: Laila hat Arthrose und bekommt dafür Arthoprotect. Ihr geht es sehr gut damit, sie rennt und spielt und hat keine Schmerzen. Dennoch wünschen wir uns ein Zuhause mit möglich wenig Treppen oder alternativ einem Aufzug. Laila können wir uns in einem Zuhause mit Kindern oder Artgenossen genauso gut vorstellen, wie als Ersthund. Sie ist unheimlich freudnlich und dank ihrer lieben Art auch für Anfänger geeignet.
-- name: Rosi
-  alter: 08/2019
-  größe: groß
-  geschlecht: Weiblich
-  charakter: ruhig, sanft, ängstlich, schüchtern
-  hunde_nummer: 787
-  text_hund: Rosi befindet sich bereits auf Pflegestelle in Deutschland. Sie geht schon super an der Leine und lernt sich ihren Ängsten zu stellen. Rosi wurde aus einem illegalen Shelter in Gheorghenie gerettet. Seit ihrer rettung im Jahr 2021 wartet sie nun im Tierheim auf ihre Menschen. Sie ist eine liebenswerte, schüchterne Hündin, die sich nicht vordrängt und lieber das Geschene aus einer gewissen Entfernung beobachtet. Sie braucht viel Zeit, um Vertrauen zu fassen - zu oft wurde sie von Menschen verstoßen.
-  text_zuhause: Für Rosi suchen wir eine Familie oder Einzelperson, die ihr so viel Zeit gibt, wie nötig - geduldige, empathische Menschen sind essentiell für Rosi. Sie wird ängstlich auf verschiedene Alltagssituationen reagieren und braucht jemanden, der sie dabei geduldig und liebevoll begleitet und ihr zeigt, wie schön ein Hundeleben in Sicherheit sein kann.
 - name: Mathilda
   alter: 08/2018
   größe: mittelgroß
@@ -120,22 +97,6 @@
   hunde_nummer: 745
   text_hund: Milan ist ein ruhiger, vorsichtiger und schüchterner Rüde. Er ist nicht aggressiv, lässt sich anfassen und streicheln. Er ist überhaupt kein Streithahn, stellt sich immer hinten an, ist unheimlich sozial und möchte einfach keine Probleme machen. Er kann es gar nicht glauben, dass es liebe Menschen gibt, die ihn streicheln möchten und ihm Aufmerksamkeit schenken. Unser hübscher Milan braucht einfach nur etwas Zeit, um Vertrauen zu lernen.
   text_zuhause: Für Milan suchen wir geduldige, liebe Menschen, gern mit Hundeerfahrung. Er braucht viel Zeit und Liebe, um in seinem neuen Leben anzukommen. Daher sind ruhige, selbstsichere Menschen unerlässlich für Milan.
-- name: Leo
-  alter: 08/2014
-  größe: klein - mittelgroß
-  geschlecht: Männlich
-  charakter: aktiv, intelligent, genügsam, sozial, freundlich
-  hunde_nummer: 781
-  text_hund: "Leo befindet sich bereits auf Pfelgestelle in Deutschland. Er ist sehr aufgeschlossen gegenüber anderen Hunden und läuft schon gut an der Leine. Er macht sich hervorragend auf seiner Pflegestelle und wartet nun hoffnungsvoll auf sein Für-Immer-Zuhause. Zu ihm: 2021 haben wir Leo aus einem illegalen Shelter in Gheorghenie gerettet. Leo ist ein sehr sozialer, freundlicher Rüde, der immernoch sehr aktiv ist und topfit. Leo ist genügsam und gut mit anderen verträglich."
-  text_zuhause: Leo ist ein simpler, und genügsamer Hund - Hundeerfahrung ist keine Voraussetzung, um den schönen Rüden zu adoptieren. Genauso können wir uns Leo auch mit Kindern vorstellen.
-- name: Kala
-  alter: 07/2025
-  größe: klein
-  geschlecht: Weiblich
-  charakter: aktiv, neugierig, freundlich
-  hunde_nummer:
-  text_hund: Kala, ein zartes Seelchen mit einem großen Herzchen auf der Suche nach einem liebevollen  Zuhause. Kala befindet sich auf einer Pflegestelle in 96178 Pommersfelden . Dort kann sie sehr gerne besucht werden. Kala wird wie folgt von ihrer Pflegestelle beschrieben - Kala ist ein offenes freundliches liebes Mädel. Sie sucht die Nähe zum Menschen. Kala ist rundherum eine kleine anhängliche sehr verschmusste Maus. Mit den im Haushalt lebenden Hunden versteht sie sich wunderbar. Kala ist Welpen typisch verspielt und fordert, die anderen gerne zum spielen auf. Akzeptiert aber genauso gut ihre gesetzten Grenzen. Draußen zu sein ob im Garten oder auf Spaziergängen bereiten ihr große Freude. Vom ersten Tag an läuft Kala problemlos an der Leine. Altagsgeräusche bereiten ihr keine Probleme. Das Auto fahren klappt prima. Auch das Allein bleiben mit ihren Artgenossen ist kein Problem. Kala lernt sehr schnell und schaut sich viel von den erst Hunden ab.
-  text_zuhause: Für Kala wünschen wir uns eine ruhige liebe Familie gerne mit Kindern ab ca.6 Jahren die einen verantwortungsvollen und liebe vollen Umgang mit Tieren haben.
 - name: Jeff
   alter: 08/2015
   größe: mittel - groß
